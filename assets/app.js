@@ -68,7 +68,6 @@
         a.innerHTML =
           '<img class="main" src="' + esc(main) + '" alt="' + esc(it.name) + '" loading="lazy">' +
           '<img class="alt" src="' + esc(alt) + '" alt="" loading="lazy" aria-hidden="true">' +
-          '<span class="tag">' + esc(it.category) + '</span>' +
           '<span class="meta"><span class="name">' + esc(it.name) + '</span>' +
           '<span class="row"><span class="price">' + esc(it.price) + '</span>' +
           '<span class="tag">' + esc(it.category) + '</span></span></span>' +

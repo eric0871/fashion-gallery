@@ -42,14 +42,6 @@ img { display: block; }
   transition: opacity .5s ease;
 }
 .card img.alt { opacity: 0; }
-.card > .tag {
-  position: absolute;
-  top: 10px; left: 10px;
-  z-index: 2;
-  font-size: 10.5px;
-  letter-spacing: .1em;
-  background: rgba(255,255,255,.82);
-}
 @media (hover: hover) {
   .card:hover img.alt { opacity: 1; }
   .card:hover img.main { opacity: 0; }
