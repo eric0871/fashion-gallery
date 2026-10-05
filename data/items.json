@@ -187,6 +187,74 @@
           "url": "https://cdn11.bigcommerce.com/s-ry0z32rxm0/images/stencil/1280x1280/products/8194/24190/Aesop-Home-Room-Spray-Istros-100mL-large__64872.1683886395.jpg?c=2"
         }
       ]
+    },
+    {
+      "id": "34-heritage-johnny-collar-polo-sweater-off-white",
+      "name": "34 Heritage Johnny Collar Polo Sweater — Off White",
+      "price": "$168",
+      "category": "polo",
+      "link": "https://www.nordstrom.com/s/johnny-collar-polo-sweater/8328469",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://n.nordstrommedia.com/it/beb36483-0bf2-467d-a534-00057b2ecaed.jpeg?w=780&h=1170&crop=pad"
+        },
+        {
+          "label": "detail",
+          "url": "https://n.nordstrommedia.com/it/496d2adf-79ad-49a9-a4a6-20426186d713.jpeg?w=780&h=1170&crop=pad"
+        }
+      ]
+    },
+    {
+      "id": "todd-patrick-tailored-bermuda-short-black",
+      "name": "Todd Patrick Tailored Bermuda Short — Black",
+      "price": "$100",
+      "category": "shorts",
+      "link": "https://www.toddpatrick.co/shop/p/tailored-bermuda-short",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://images.squarespace-cdn.com/content/v1/63613b6ddefb69207a588760/bb2f12d7-100f-442f-86aa-d6fa8162fd92/black+shorts.jpg"
+        },
+        {
+          "label": "back",
+          "url": "https://images.squarespace-cdn.com/content/v1/63613b6ddefb69207a588760/4dcfa14c-b66b-4636-aa66-53368a5174ae/black+shorts+back.jpg"
+        }
+      ]
+    },
+    {
+      "id": "i-love-ugly-albert-pleated-pant-black",
+      "name": "I Love Ugly Cotton Albert Pleated Pant — Black",
+      "price": "$145",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/cotton-albert-pleated-pant-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://www.iloveugly.com/cdn/shop/files/1_46684a2e-0105-4694-a19c-bcfcd4764dab.jpg?v=1789427864&width=1200"
+        },
+        {
+          "label": "model",
+          "url": "https://www.iloveugly.com/cdn/shop/files/1RO1_52f933fc-4edd-4d05-b5ac-38663de4c012.jpg?v=1789427865&width=1792"
+        }
+      ]
+    },
+    {
+      "id": "homecourt-hand-duo",
+      "name": "Homecourt Hand Duo — Hand Wash & Hand Cream",
+      "price": "$71",
+      "category": "grooming",
+      "link": "https://homecourt.co/products/hand-duo",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://homecourt.co/cdn/shop/products/PDP_1_02-homecourtecom11207_c79cbbc2-26b4-446c-a23d-f9e37ac960e7.jpg?v=1768605457&width=600"
+        },
+        {
+          "label": "detail",
+          "url": "https://homecourt.co/cdn/shop/products/PDP_1_01-homecourtecom11099.jpg?v=1768605457&width=600"
+        }
+      ]
     }
   ]
 }
