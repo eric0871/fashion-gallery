@@ -255,6 +255,40 @@
           "url": "https://homecourt.co/cdn/shop/products/PDP_1_01-homecourtecom11099.jpg?v=1768605457&width=600"
         }
       ]
+    },
+    {
+      "id": "brain-dead-andersson-bell-fringe-pants-multi",
+      "name": "Brain Dead × Andersson Bell Fringe Pants — Multi",
+      "price": "$225",
+      "category": "pants",
+      "link": "https://wearebraindead.com/products/andersson-bell-x-brain-dead-fringe-pants-multi",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Andersson_Bell_x_Brain_Dead_Fringe_Pants_Brown_Front_optimized.jpg?v=1774285152"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Andersson_Bell_x_Brain_Dead_Fringe_Pants_Brown_Detail_optimized.jpg?v=1774285152"
+        }
+      ]
+    },
+    {
+      "id": "diptyque-figuier-classic-candle",
+      "name": "Diptyque Figuier (Fig Tree) Classic Candle — 190g",
+      "price": "$90",
+      "category": "fragrance",
+      "link": "https://us.diptyqueparis.com/en-us/products/classic-candle-figuier-fig-tree-fi2",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0991/4784/1850/files/diptyque-figuierclassiccandle-FI2-front.webp?v=1781571444"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0991/4784/1850/files/diptyque-figuierclassiccandle-FI2-night.webp?v=1781571444"
+        }
+      ]
     }
   ]
 }
