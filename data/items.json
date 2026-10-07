@@ -121,11 +121,8 @@
       "price": "$49"
     },
     {
-      "id": "boss-johnny-collar-sweater-khaki",
-      "name": "BOSS Knitted Johnny Collar Sweater — Khaki",
-      "price": "$199",
       "category": "polo",
-      "link": "https://www.hugoboss.com/us/knitted-cotton-sweater-with-johnny-collar/hbna50565511_254.html",
+      "id": "boss-johnny-collar-sweater-khaki",
       "images": [
         {
           "label": "front",
@@ -135,14 +132,14 @@
           "label": "model",
           "url": "https://images.hugoboss.com/is/image/boss/hbna50565511_254_340?$large$&fit=crop,1"
         }
-      ]
+      ],
+      "link": "https://www.hugoboss.com/us/knitted-cotton-sweater-with-johnny-collar/hbna50565511_254.html",
+      "name": "BOSS Knitted Johnny Collar Sweater — Khaki",
+      "price": "$199"
     },
     {
-      "id": "cos-pleated-wide-leg-pants-black",
-      "name": "COS Pleated Relaxed-Fit Wide-Leg Pants — Black",
-      "price": "$189",
       "category": "pants",
-      "link": "https://www.cos.com/en-us/men/menswear/trousers/relaxed-fit/wideleg/product/wool-twill-relaxed-fit-wide-leg-trousers-black-1349894001",
+      "id": "cos-pleated-wide-leg-pants-black",
       "images": [
         {
           "label": "model",
@@ -152,14 +149,14 @@
           "label": "front",
           "url": "https://media.cos.com/assets/001/2a/a7/2aa76352a418fa0313d5922d7fbbc023f83b4a92_xxl-1.jpg?imwidth=2160"
         }
-      ]
+      ],
+      "link": "https://www.cos.com/en-us/men/menswear/trousers/relaxed-fit/wideleg/product/wool-twill-relaxed-fit-wide-leg-trousers-black-1349894001",
+      "name": "COS Pleated Relaxed-Fit Wide-Leg Pants — Black",
+      "price": "$189"
     },
     {
-      "id": "boss-jacquard-johnny-collar-polo-black",
-      "name": "BOSS Jacquard-Pattern Polo Shirt with Johnny Collar — Black",
-      "price": "$155",
       "category": "polo",
-      "link": "https://www.hugoboss.com/us/jacquard-pattern-polo-shirt-with-johnny-collar/hbna50561203_001.html",
+      "id": "boss-jacquard-johnny-collar-polo-black",
       "images": [
         {
           "label": "front",
@@ -169,14 +166,14 @@
           "label": "model",
           "url": "https://images.hugoboss.com/is/image/boss/hbna50561203_001_340?$large$&fit=crop,1"
         }
-      ]
+      ],
+      "link": "https://www.hugoboss.com/us/jacquard-pattern-polo-shirt-with-johnny-collar/hbna50561203_001.html",
+      "name": "BOSS Jacquard-Pattern Polo Shirt with Johnny Collar — Black",
+      "price": "$155"
     },
     {
-      "id": "aesop-istros-room-spray",
-      "name": "Aesop Istros Aromatique Room Spray — 100ml",
-      "price": "$69",
       "category": "home",
-      "link": "https://www.aesop.com/home-fragrance/room-sprays/istros-aromatique-room-spray/FR17.html",
+      "id": "aesop-istros-room-spray",
       "images": [
         {
           "label": "front",
@@ -186,14 +183,14 @@
           "label": "detail",
           "url": "https://cdn11.bigcommerce.com/s-ry0z32rxm0/images/stencil/1280x1280/products/8194/24190/Aesop-Home-Room-Spray-Istros-100mL-large__64872.1683886395.jpg?c=2"
         }
-      ]
+      ],
+      "link": "https://www.aesop.com/home-fragrance/room-sprays/istros-aromatique-room-spray/FR17.html",
+      "name": "Aesop Istros Aromatique Room Spray — 100ml",
+      "price": "$69"
     },
     {
-      "id": "34-heritage-johnny-collar-polo-sweater-off-white",
-      "name": "34 Heritage Johnny Collar Polo Sweater — Off White",
-      "price": "$168",
       "category": "polo",
-      "link": "https://www.nordstrom.com/s/johnny-collar-polo-sweater/8328469",
+      "id": "34-heritage-johnny-collar-polo-sweater-off-white",
       "images": [
         {
           "label": "front",
@@ -203,14 +200,14 @@
           "label": "detail",
           "url": "https://n.nordstrommedia.com/it/496d2adf-79ad-49a9-a4a6-20426186d713.jpeg?w=780&h=1170&crop=pad"
         }
-      ]
+      ],
+      "link": "https://www.nordstrom.com/s/johnny-collar-polo-sweater/8328469",
+      "name": "34 Heritage Johnny Collar Polo Sweater — Off White",
+      "price": "$168"
     },
     {
-      "id": "todd-patrick-tailored-bermuda-short-black",
-      "name": "Todd Patrick Tailored Bermuda Short — Black",
-      "price": "$100",
       "category": "shorts",
-      "link": "https://www.toddpatrick.co/shop/p/tailored-bermuda-short",
+      "id": "todd-patrick-tailored-bermuda-short-black",
       "images": [
         {
           "label": "front",
@@ -220,14 +217,14 @@
           "label": "back",
           "url": "https://images.squarespace-cdn.com/content/v1/63613b6ddefb69207a588760/4dcfa14c-b66b-4636-aa66-53368a5174ae/black+shorts+back.jpg"
         }
-      ]
+      ],
+      "link": "https://www.toddpatrick.co/shop/p/tailored-bermuda-short",
+      "name": "Todd Patrick Tailored Bermuda Short — Black",
+      "price": "$100"
     },
     {
-      "id": "i-love-ugly-albert-pleated-pant-black",
-      "name": "I Love Ugly Cotton Albert Pleated Pant — Black",
-      "price": "$145",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/cotton-albert-pleated-pant-black",
+      "id": "i-love-ugly-albert-pleated-pant-black",
       "images": [
         {
           "label": "front",
@@ -237,14 +234,14 @@
           "label": "model",
           "url": "https://www.iloveugly.com/cdn/shop/files/1RO1_52f933fc-4edd-4d05-b5ac-38663de4c012.jpg?v=1789427865&width=1792"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/cotton-albert-pleated-pant-black",
+      "name": "I Love Ugly Cotton Albert Pleated Pant — Black",
+      "price": "$145"
     },
     {
-      "id": "homecourt-hand-duo",
-      "name": "Homecourt Hand Duo — Hand Wash & Hand Cream",
-      "price": "$71",
       "category": "grooming",
-      "link": "https://homecourt.co/products/hand-duo",
+      "id": "homecourt-hand-duo",
       "images": [
         {
           "label": "front",
@@ -254,14 +251,14 @@
           "label": "detail",
           "url": "https://homecourt.co/cdn/shop/products/PDP_1_01-homecourtecom11099.jpg?v=1768605457&width=600"
         }
-      ]
+      ],
+      "link": "https://homecourt.co/products/hand-duo",
+      "name": "Homecourt Hand Duo — Hand Wash & Hand Cream",
+      "price": "$71"
     },
     {
-      "id": "brain-dead-andersson-bell-fringe-pants-multi",
-      "name": "Brain Dead × Andersson Bell Fringe Pants — Multi",
-      "price": "$225",
       "category": "pants",
-      "link": "https://wearebraindead.com/products/andersson-bell-x-brain-dead-fringe-pants-multi",
+      "id": "brain-dead-andersson-bell-fringe-pants-multi",
       "images": [
         {
           "label": "front",
@@ -271,14 +268,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Andersson_Bell_x_Brain_Dead_Fringe_Pants_Brown_Detail_optimized.jpg?v=1774285152"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/andersson-bell-x-brain-dead-fringe-pants-multi",
+      "name": "Brain Dead × Andersson Bell Fringe Pants — Multi",
+      "price": "$225"
     },
     {
-      "id": "diptyque-figuier-classic-candle",
-      "name": "Diptyque Figuier (Fig Tree) Classic Candle — 190g",
-      "price": "$90",
       "category": "fragrance",
-      "link": "https://us.diptyqueparis.com/en-us/products/classic-candle-figuier-fig-tree-fi2",
+      "id": "diptyque-figuier-classic-candle",
       "images": [
         {
           "label": "front",
@@ -288,7 +285,61 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0991/4784/1850/files/diptyque-figuierclassiccandle-FI2-night.webp?v=1781571444"
         }
-      ]
+      ],
+      "link": "https://us.diptyqueparis.com/en-us/products/classic-candle-figuier-fig-tree-fi2",
+      "name": "Diptyque Figuier (Fig Tree) Classic Candle — 190g",
+      "price": "$90"
+    },
+    {
+      "category": "shoes",
+      "id": "apc-clarks-desert-boots-dark-brown",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/PXCEL-M53005CAE_02.jpg?v=1790013730"
+        },
+        {
+          "label": "side",
+          "url": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/PXCEL-M53005CAE_00.jpg?v=1790013729"
+        }
+      ],
+      "link": "https://www.apc-us.com/products/desert-boot-apc-clarks-pxcel-m53005_cae",
+      "name": "A.P.C. × Clarks Desert Boots — Dark Brown",
+      "price": "$190"
+    },
+    {
+      "category": "pants",
+      "id": "mfpen-service-pleated-wool-trousers-gray",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://www.mrporter.com/variants/images/46376663162965584/in/w2000_q60.jpg"
+        },
+        {
+          "label": "back",
+          "url": "https://www.mrporter.com/variants/images/46376663162965584/bk/w2000_q60.jpg"
+        }
+      ],
+      "link": "https://www.mrporter.com/en-us/mens/product/mfpen/clothing/suit-trousers/service-pleated-wool-trousers/46376663162965584",
+      "name": "mfpen Service Pleated Wool Trousers — Gray",
+      "price": "$350"
+    },
+    {
+      "category": "home",
+      "id": "steamery-cirrus-icon-charcoal",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0726/8083/3199/files/steamery_cirrus_icon_charcoal_product_packshot_website_4x6_01.png?v=1787925311"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0726/8083/3199/files/steamery_cirrus_icon_charcoal_product_packshot_website_4x6_02.png?v=1787925311"
+        }
+      ],
+      "link": "https://steamery.us/products/cirrus-icon-handheld-steamer-charcoal",
+      "name": "Steamery Cirrus Icon Handheld Steamer — Charcoal",
+      "price": "$190"
     }
   ]
 }
