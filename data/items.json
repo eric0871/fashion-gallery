@@ -340,6 +340,57 @@
       "link": "https://steamery.us/products/cirrus-icon-handheld-steamer-charcoal",
       "name": "Steamery Cirrus Icon Handheld Steamer — Charcoal",
       "price": "$190"
+    },
+    {
+      "id": "mr-p-wide-leg-pleated-wool-trousers-navy",
+      "name": "MR P. Wide-Leg Pleated Wool Suit Trousers — Navy",
+      "price": "$325",
+      "category": "pants",
+      "link": "https://www.mrporter.com/en-us/mens/product/mr-p/clothing/suit-trousers/wide-leg-pleated-wool-suit-trousers/46376663163114546",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://www.mrporter.com/variants/images/46376663163114546/in/w2000_q60.jpg"
+        },
+        {
+          "label": "back",
+          "url": "https://www.mrporter.com/variants/images/46376663163114546/bk/w2000_q60.jpg"
+        }
+      ]
+    },
+    {
+      "id": "homme-plisse-monthly-colors-october-glow-cream",
+      "name": "Homme Plissé Issey Miyake Monthly Colors October Open Collar Shirt — Glow Cream",
+      "price": "$535",
+      "category": "shirt",
+      "link": "https://us.isseymiyake.com/products/hp68-jj101",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://us.isseymiyake.com/cdn/shop/files/HP63JJ101-m-03.jpg?v=1790979116&width=1200"
+        },
+        {
+          "label": "model",
+          "url": "https://us.isseymiyake.com/cdn/shop/files/HP63JJ101-c-01.jpg?v=1790979074&width=1200"
+        }
+      ]
+    },
+    {
+      "id": "byredo-bibliotheque-candle",
+      "name": "BYREDO Bibliothèque Candle — 240g",
+      "price": "$95",
+      "category": "fragrance",
+      "link": "https://www.nordstrom.com/s/byredo-bibliotheque-candle/4772001",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://n.nordstrommedia.com/it/3a912c47-096f-4d6b-bd1f-42977b35b614.jpeg?w=780&h=1170&crop=pad"
+        },
+        {
+          "label": "detail",
+          "url": "https://n.nordstrommedia.com/it/b334de5a-a624-4d6a-8360-464626da77ee.jpeg?w=780&h=1170&crop=pad"
+        }
+      ]
     }
   ]
 }
