@@ -391,6 +391,57 @@
           "url": "https://n.nordstrommedia.com/it/b334de5a-a624-4d6a-8360-464626da77ee.jpeg?w=780&h=1170&crop=pad"
         }
       ]
+    },
+    {
+      "id": "jack-victor-johnny-collar-black-setico",
+      "name": "Jack Victor Johnny Collar Black SetiCo Polo — Black",
+      "price": "$248",
+      "category": "polo",
+      "link": "https://www.jackvictor.com/products/johnny-collar-sweater-black-v261093-blk",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0493/6938/3079/files/V261093__BLK_MOMENTIS.jpg?v=1770762684"
+        },
+        {
+          "label": "model",
+          "url": "https://cdn.shopify.com/s/files/1/0493/6938/3079/files/V261093__BLK_OM1.jpg?v=1770762684"
+        }
+      ]
+    },
+    {
+      "id": "cos-chunky-cashmere-mock-neck-navy",
+      "name": "COS Chunky Cashmere Mock-Neck Sweater — Navy",
+      "price": "$359",
+      "category": "sweater",
+      "link": "https://www.cos.com/en-us/men/menswear/knitwear/jumpers/wool/product/chunky-cashmere-funnel-neck-jumper-navy-1302326002",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://media.cos.com/assets/001/24/6e/246e8249d846e25e72a30896c59172a4e02be235_xxl-1.jpg?imwidth=1200"
+        },
+        {
+          "label": "detail",
+          "url": "https://media.cos.com/assets/001/24/6e/246e8249d846e25e72a30896c59172a4e02be235_lg-1.jpg?imwidth=1200"
+        }
+      ]
+    },
+    {
+      "id": "aesop-eleos-hand-balm",
+      "name": "Aesop Eleos Aromatique Hand Balm — 75ml",
+      "price": "$37",
+      "category": "grooming",
+      "link": "https://bluemercury.com/products/aesop-eleos-aromatique-hand-balm",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://n.nordstrommedia.com/id/sr3/03f469f0-730e-4fe5-9951-157f93fd95c0.jpeg?w=500"
+        },
+        {
+          "label": "detail",
+          "url": "https://assets.feelunique.com/img/products/180431/aesop_eleos_aromatique_hand_balm_500ml-1710663392.jpg"
+        }
+      ]
     }
   ]
 }
