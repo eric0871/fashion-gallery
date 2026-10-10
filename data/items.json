@@ -442,6 +442,57 @@
           "url": "https://assets.feelunique.com/img/products/180431/aesop_eleos_aromatique_hand_balm_500ml-1710663392.jpg"
         }
       ]
+    },
+    {
+      "id": "i-love-ugly-suede-overshirt-stone",
+      "name": "I Love Ugly Suede Overshirt — Stone",
+      "price": "$159",
+      "category": "jacket",
+      "link": "https://www.iloveugly.com/products/suede-overshirt-stone",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_1dfa5bf7-5f50-42fa-8a40-6f9f67216925.jpg?v=1789432276"
+        },
+        {
+          "label": "model",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_077f4cfb-179b-4dab-80b7-a63dab1d0dee.jpg?v=1789432276"
+        }
+      ]
+    },
+    {
+      "id": "i-love-ugly-barrel-leg-slack-pant-black",
+      "name": "I Love Ugly Barrel Leg Slack Pant — Black",
+      "price": "$139",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/barrel-leg-slack-pant-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_9e4d6dda-f58a-4fa5-812e-9af345e0f1ed.jpg?v=1788313011"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_c5b15c32-f432-4ac3-9a47-39b5f6abe56b.jpg?v=1788313012"
+        }
+      ]
+    },
+    {
+      "id": "homecourt-linen-spray",
+      "name": "Homecourt Linen Spray",
+      "price": "$34",
+      "category": "home",
+      "link": "https://homecourt.co/products/linen-spray",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0591/6324/6743/files/Laundry_PDP_LINEN_SPRAY_Cece.jpg?v=1741993092"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0591/6324/6743/files/Laundry_PDP_LINEN_SPRAY_NL.jpg?v=1741993092"
+        }
+      ]
     }
   ]
 }
