@@ -493,6 +493,40 @@
           "url": "https://cdn.shopify.com/s/files/1/0591/6324/6743/files/Laundry_PDP_LINEN_SPRAY_NL.jpg?v=1741993092"
         }
       ]
+    },
+    {
+      "id": "braindead-anderssonbell-tiedye-shirt-multi",
+      "name": "Brain Dead × Andersson Bell Tie-Dyed Shirt — Multi",
+      "price": "$300",
+      "category": "shirt",
+      "link": "https://wearebraindead.com/products/andersson-bell-x-brain-dead-tie-dyed-shirt-multi",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Andersson_Bell_x_Brain_Dead_Tie_Dyed_Shirt_Brown_Front_optimized.jpg?v=1774285157"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Andersson_Bell_x_Brain_Dead_Tie_Dyed_Shirt_Brown_Detail_optimized.jpg?v=1774285157"
+        }
+      ]
+    },
+    {
+      "id": "saltstone-bodywash-santal-vetiver",
+      "name": "SALT & STONE Body Wash — Santal & Vetiver 450ml",
+      "price": "$36",
+      "category": "grooming",
+      "link": "https://www.saltandstone.com/products/body-wash",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/1916/1271/files/BodyWash-SantalVetiver-BaseImage.webp?v=1779930546"
+        },
+        {
+          "label": "lifestyle",
+          "url": "https://cdn.shopify.com/s/files/1/1916/1271/files/Body_Wash_S_V_-_2.jpg?v=1761775001"
+        }
+      ]
     }
   ]
 }
