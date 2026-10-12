@@ -527,6 +527,57 @@
           "url": "https://cdn.shopify.com/s/files/1/1916/1271/files/Body_Wash_S_V_-_2.jpg?v=1761775001"
         }
       ]
+    },
+    {
+      "id": "i-love-ugly-kobe-pant-grey-houndstooth",
+      "name": "I Love Ugly Kobe Pant — Grey Houndstooth",
+      "price": "$125",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/kobe-pant-grey-houndstooth",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_73026d74-6e76-4b33-aed8-3846132ed0dd.jpg?v=1791423181"
+        },
+        {
+          "label": "on-body",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_3e0368c2-114c-4b60-9fc8-ad5d429d6d44.jpg?v=1791423182"
+        }
+      ]
+    },
+    {
+      "id": "i-love-ugly-mason-suede-jacket-charcoal",
+      "name": "I Love Ugly Mason Suede Jacket — Charcoal",
+      "price": "$179",
+      "category": "jacket",
+      "link": "https://www.iloveugly.com/products/mason-suede-jacket-charcoal",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_56116f6d-4b47-4caf-b0d4-2b9807340af4.jpg?v=1789434957"
+        },
+        {
+          "label": "on-body",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_a3751c4b-1f05-4b33-9db0-e12db18046d7.jpg?v=1789434958"
+        }
+      ]
+    },
+    {
+      "id": "boy-smells-hinoki-fantome-candle-9oz",
+      "name": "Boy Smells Hinoki Fantôme Candle — 9oz",
+      "price": "$44",
+      "category": "fragrance",
+      "link": "https://boysmells.com/products/hinoki-fantome-candle-9oz",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0068/9494/4323/files/BS_PDP_Standard_Candle_Vessel_Hinoki_Fantome_copy.png?v=1747681547"
+        },
+        {
+          "label": "box",
+          "url": "https://cdn.shopify.com/s/files/1/0068/9494/4323/files/BS_PDP_Standard_Candle_Box_Front_Hinoki_Fantome_copy.png?v=1747681547"
+        }
+      ]
     }
   ]
 }
