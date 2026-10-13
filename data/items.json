@@ -578,6 +578,57 @@
           "url": "https://cdn.shopify.com/s/files/1/0068/9494/4323/files/BS_PDP_Standard_Candle_Box_Front_Hinoki_Fantome_copy.png?v=1747681547"
         }
       ]
+    },
+    {
+      "id": "i-love-ugly-twin-pleat-pant-black",
+      "name": "I Love Ugly Twin Pleat Pant — Black",
+      "price": "$145",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/twin-pleat-pant-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_fb897ceb-635b-49f5-a599-f6bd3a35bc7e.jpg?v=1783397135"
+        },
+        {
+          "label": "on-body",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO26.jpg?v=1784252846"
+        }
+      ]
+    },
+    {
+      "id": "i-love-ugly-crop-ls-shirt-white-poplin",
+      "name": "I Love Ugly Crop LS Shirt — White Poplin",
+      "price": "$99",
+      "category": "shirt",
+      "link": "https://www.iloveugly.com/products/crop-ls-shirt-white-poplin-1",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_ad42a1a9-969d-4791-ac13-de9d589f4fd9.jpg?v=1789435346"
+        },
+        {
+          "label": "on-body",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_9358d7ac-df8a-47d9-8c10-a8701d9431b8.jpg?v=1789435347"
+        }
+      ]
+    },
+    {
+      "id": "viski-glacier-rocks-steel-sphere",
+      "name": "Viski Glacier Rocks Large Stainless Steel Sphere",
+      "price": "$24.99",
+      "category": "bar",
+      "link": "https://viski.com/collections/viski-items/products/3425",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0453/3089/0913/products/nm2hpz9dogogxsquqy7m.jpg?v=1775138638"
+        },
+        {
+          "label": "in-glass",
+          "url": "https://cdn.shopify.com/s/files/1/0453/3089/0913/files/m2kobkmm7u7y0h76cgjp.jpg?v=1775138638"
+        }
+      ]
     }
   ]
 }
