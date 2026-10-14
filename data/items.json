@@ -629,6 +629,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0453/3089/0913/files/m2kobkmm7u7y0h76cgjp.jpg?v=1775138638"
         }
       ]
+    },
+    {
+      "id": "birkenstock-1774-uerzell-taupe",
+      "name": "Birkenstock 1774 Uerzell Suede — Taupe",
+      "price": "$395",
+      "category": "shoes",
+      "link": "https://www.birkenstock.com/us/1774-uerzell-suede-suede-leather/thibogranddad-Uerzell1774-naturalleather-0-thermorubber-u_27.html",
+      "images": [
+        {
+          "label": "side",
+          "url": "https://cdn.shopify.com/s/files/1/0591/3342/7884/files/1774-uerzell-suede-side-1031918.jpg?v=1769562802"
+        },
+        {
+          "label": "top",
+          "url": "https://cdn.shopify.com/s/files/1/0591/3342/7884/files/1774-uerzell-suede-top-1031918.jpg?v=1769562802"
+        }
+      ]
+    },
+    {
+      "id": "i-love-ugly-linen-kobe-pant-mushroom",
+      "name": "I Love Ugly Linen Kobe Pant — Mushroom",
+      "price": "$125",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/linen-kobe-pant-mushroom",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_e42bad3e-3cb3-4a0b-abd7-34e1ad5b5eeb.jpg?v=1788747975"
+        },
+        {
+          "label": "model",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_e8efa66e-0d72-4f50-b2b2-a874a5f20229.jpg?v=1788747976"
+        }
+      ]
+    },
+    {
+      "id": "i-love-ugly-balloon-pleat-pant-brown",
+      "name": "I Love Ugly Balloon Pleat Pant — Brown",
+      "price": "$139",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/balloon-pleat-pant-brown",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_fedc97dd-2d16-4466-a4e1-fc8936975f73.jpg?v=1789437402"
+        },
+        {
+          "label": "model",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_50781574-955a-45d7-a210-b3b63f63a9c9.jpg?v=1789437403"
+        }
+      ]
+    },
+    {
+      "id": "bellroy-tech-kit-black",
+      "name": "Bellroy Tech Kit — Black",
+      "price": "$89",
+      "category": "travel",
+      "link": "https://hewhoseeks.au/products/bellroy-tech-kit-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0586/2742/4446/files/0_b190b491-e160-4bf6-b20b-80d8900da336.webp?v=1694436958"
+        },
+        {
+          "label": "open",
+          "url": "https://cdn.shopify.com/s/files/1/0586/2742/4446/files/1_aa31618f-fbc5-4e09-aaa4-e83a74ab39be.webp?v=1694436957"
+        }
+      ]
     }
   ]
 }
