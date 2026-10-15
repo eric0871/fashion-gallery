@@ -697,6 +697,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0586/2742/4446/files/1_aa31618f-fbc5-4e09-aaa4-e83a74ab39be.webp?v=1694436957"
         }
       ]
+    },
+    {
+      "id": "iloveugly-faux-leather-bomber-black",
+      "name": "I Love Ugly Faux Leather Bomber Jacket — Black",
+      "price": "$195",
+      "category": "jacket",
+      "link": "https://www.iloveugly.com/products/faux-leather-bomber-jacket-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_fb79f2c0-c608-4970-a518-dd51c3c860c4.jpg?v=1789435873"
+        },
+        {
+          "label": "on-body",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_b004047d-3b85-4a9e-bb45-651a653d880e.jpg?v=1789435874"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-grid-box-knit-polo-black",
+      "name": "I Love Ugly Grid Box Knit Polo — Black",
+      "price": "$99",
+      "category": "polo",
+      "link": "https://www.iloveugly.com/products/grid-box-knit-polo-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_3f006cb4-1b25-4b79-a0da-719c55d5e51c.jpg?v=1789435972"
+        },
+        {
+          "label": "on-body",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_cce14c9d-a8d1-4ffd-a080-2f39fb24bc9a.jpg?v=1789435973"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-winston-pant-charcoal-black-check",
+      "name": "I Love Ugly Winston Pant — Charcoal/Black Check",
+      "price": "$145",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/winston-pant-charcoal-black-check",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_14a04e5c-3858-4f34-a385-cc136c68138d.jpg?v=1788740590"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_2dca824d-ca1f-4e96-ae07-2f97a787d8ba.jpg?v=1788740590"
+        }
+      ]
+    },
+    {
+      "id": "orbitkey-key-organizer-tracker-black",
+      "name": "Orbitkey Key Organizer Tracker — Black",
+      "price": "$69.90",
+      "category": "electronics",
+      "link": "https://orbitkey.com/products/key-organiser-tracker",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0932/4482/files/Orbitkey-KeyOrganiserTracker-Leatherfree-Black-4.jpg?v=1788375868"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0932/4482/files/Orbitkey-KeyOrganiserTracker-Leatherfree-4.jpg?v=1788375868"
+        }
+      ]
     }
   ]
 }
