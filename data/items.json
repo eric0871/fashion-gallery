@@ -833,6 +833,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0671/4097/6867/files/Theragun-Mini-3-Black-Hero-2.webp?v=1743189989"
         }
       ]
+    },
+    {
+      "id": "iloveugly-cropped-90s-denim-vintage-blue",
+      "name": "I Love Ugly Cropped 90s Denim — Vintage Blue",
+      "price": 149,
+      "category": "jeans",
+      "link": "https://www.iloveugly.com/products/cropped-90s-denim-vintage-blue-1",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_a034a1a7-0677-4f6e-b790-a5930bd5acb7.jpg?v=1788301902"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_73b04e2f-f583-4bc7-8ece-cf32ff72b49a.jpg?v=1788301902"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-box-cuban-collar-shirt-concrete-check",
+      "name": "I Love Ugly Box Cuban Collar Shirt — Concrete Check",
+      "price": 95,
+      "category": "shirt",
+      "link": "https://www.iloveugly.com/products/box-cuban-collar-shirt-concrete-check",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_7d49582f-72c1-481f-b77c-80f08deb0456.jpg?v=1789434197"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_70fe00a9-74ed-4608-a772-8829a422c5bf.jpg?v=1789434198"
+        }
+      ]
+    },
+    {
+      "id": "braindead-fatigue-overshirt-olive",
+      "name": "Brain Dead Fatigue Overshirt — Olive",
+      "price": 275,
+      "category": "jacket",
+      "link": "https://wearebraindead.com/products/discharge-fatigue-overshirt-olive",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Discharge_Fatigue_Overshirt_Olive_Front_optimized.jpg?v=1791927102"
+        },
+        {
+          "label": "back",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Discharge_Fatigue_Overshirt_Olive_Back_optimized.jpg?v=1791927102"
+        }
+      ]
+    },
+    {
+      "id": "steamery-pilo-icon-fabric-shaver-charcoal",
+      "name": "Steamery Pilo Icon Fabric Shaver — Charcoal",
+      "price": 65,
+      "category": "care",
+      "link": "https://steamery.us/products/pilo-icon-fabric-shaver-charcoal",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0726/8083/3199/files/steamery_pilo_icon_charcoal_product_packshot_website_4x6_b0b9435f-4b66-4513-8bc3-23701c135bf5.png?v=1784630736"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0726/8083/3199/files/steamery_pilo_icon_charcoal_product_packshot_website_4x6_02.png?v=1784630734"
+        }
+      ]
     }
   ]
 }
