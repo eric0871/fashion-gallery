@@ -901,6 +901,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0726/8083/3199/files/steamery_pilo_icon_charcoal_product_packshot_website_4x6_02.png?v=1784630734"
         }
       ]
+    },
+    {
+      "id": "iloveugly-tobi-straight-denim-black",
+      "name": "I Love Ugly Tobi Straight Denim — Black",
+      "price": "$149",
+      "category": "jeans",
+      "link": "https://www.iloveugly.com/products/tobi-straight-denim-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_d30d66ee-a19b-4091-a9ed-856f34c5f660.jpg?v=1788304171"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_ef5a20a8-9919-4860-a518-ec8b2a5d7ac1.jpg?v=1788304171"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-arlo-ss-shirt-black-white-check",
+      "name": "I Love Ugly Arlo SS Shirt — Black/White Check",
+      "price": "$95",
+      "category": "shirt",
+      "link": "https://www.iloveugly.com/products/arlo-ss-shirt-black-white-check",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_ba8f4b19-3329-4cb5-962a-dec0bbecbb08.jpg?v=1789432113"
+        },
+        {
+          "label": "on-body",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_d7e37b1b-1beb-4ecd-9c92-4f722f80b2b3.jpg?v=1789432114"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-winston-pant-mineral-green",
+      "name": "I Love Ugly Winston Pant — Mineral Green",
+      "price": "$145",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/winston-pant-mineral-green",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_3404c121-675b-46b3-80c4-3b0536f5a033.jpg?v=1788743576"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_866c1c55-c385-42a8-8313-b86695ebd9b1.jpg?v=1788743577"
+        }
+      ]
+    },
+    {
+      "id": "henson-shave-system-aircraft-aluminum",
+      "name": "Henson Shaving Shave System — Aircraft Aluminum",
+      "price": "$105",
+      "category": "grooming",
+      "link": "https://hensonshaving.com/products/henson-shave-system-in-aircraft-aluminum",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0269/8025/3776/files/PDP_Image_1.jpg?v=1788877836"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0269/8025/3776/files/Product_Feature_Images_2_30_Angle_v3_TINY.jpg?v=1771622103"
+        }
+      ]
     }
   ]
 }
