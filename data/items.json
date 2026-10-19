@@ -969,6 +969,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0269/8025/3776/files/Product_Feature_Images_2_30_Angle_v3_TINY.jpg?v=1771622103"
         }
       ]
+    },
+    {
+      "id": "iloveugly-winston-pant-grey-marle",
+      "name": "I Love Ugly Winston Pant — Grey Marle",
+      "price": "$145",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/winston-pant-grey-marle",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_fee98100-ed96-40dd-b081-a503d4c13adf.jpg?v=1789076754"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_ad7bbe0a-9463-41e8-bbcf-69729d0cf9e4.jpg?v=1789076755"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-box-cuban-collar-shirt-blue-white-stripe",
+      "name": "I Love Ugly Box Cuban Collar Shirt — Blue/White Stripe",
+      "price": "$95",
+      "category": "shirt",
+      "link": "https://www.iloveugly.com/products/box-cuban-collar-shirt-blue-white-stripe-1",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_a11b5ad7-34c8-4f88-8634-959f6f0d09eb.jpg?v=1789435643"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_253e41ff-e77c-429b-959e-2eb97689557c.jpg?v=1789435643"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-balloon-pleat-pant-charcoal-grey",
+      "name": "I Love Ugly Balloon Pleat Pant — Charcoal Grey",
+      "price": "$139",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/balloon-pleat-pant-charcoal-grey",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_0b841d55-ae3f-41a2-95d8-7425369e4d7d.jpg?v=1789436282"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_457c8ff0-3828-4aa8-9dc0-0ca1ea5697e6.jpg?v=1789436283"
+        }
+      ]
+    },
+    {
+      "id": "ugmonk-analog-archive-black-aluminum",
+      "name": "Ugmonk Analog Archive — Black Aluminum",
+      "price": "$129",
+      "category": "home",
+      "link": "https://ugmonk.com/products/analog-archive-black-aluminum",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0167/4484/files/aluminum-archive-blk-1.jpg?v=1791302272"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0167/4484/files/aluminum-archive-blk-6.jpg?v=1791305230"
+        }
+      ]
     }
   ]
 }
