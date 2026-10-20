@@ -1037,6 +1037,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0167/4484/files/aluminum-archive-blk-6.jpg?v=1791305230"
         }
       ]
+    },
+    {
+      "id": "iloveugly-twin-pleat-pant-dune",
+      "name": "I Love Ugly Twin Pleat Pant — Dune",
+      "price": 145,
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/twin-pleat-pant-dune",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_932e5d9e-5047-4363-af83-978345c6c2e6.jpg?v=1790122322"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_1601983b-92cd-421e-9515-a3e5982fe0f7.jpg?v=1790122322"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-kobe-dress-pant-black",
+      "name": "I Love Ugly Kobe Dress Pant — Black",
+      "price": 129,
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/kobe-dress-pant-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_b55a9067-f28e-47cd-b273-42e81d8d0e72.jpg?v=1790131776"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_0dd5eeab-0265-4a75-b5f7-e6e0da3a69ee.jpg?v=1790131776"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-winston-pant-sand-herringbone",
+      "name": "I Love Ugly Winston Pant — Sand Herringbone",
+      "price": 145,
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/winston-pant-sand-herringbone",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_49020f25-aef1-4ae7-882d-5bbb29545376.jpg?v=1790127744"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_df4bd47f-fd06-499c-b170-4527f8466e89.jpg?v=1790127745"
+        }
+      ]
+    },
+    {
+      "id": "esr-omnilock-magnetic-car-mount-black",
+      "name": "ESR OmniLock Magnetic Car Mount (Suction Cup) — Black",
+      "price": 32.99,
+      "category": "car",
+      "link": "https://www.esrgear.com/products/black-suction-cup-car-phone-holders-omnilock",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/OmniLock-Magnetic-Car-Mount-_Air-Vent_-Black-ESR-233278529.jpg?v=1762137237"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/OmniLock-Magnetic-Car-Mount-_Suction-Cup_-Black-ESR-237258975.jpg?v=1773717320"
+        }
+      ]
     }
   ]
 }
