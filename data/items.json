@@ -1105,6 +1105,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/OmniLock-Magnetic-Car-Mount-_Suction-Cup_-Black-ESR-237258975.jpg?v=1773717320"
         }
       ]
+    },
+    {
+      "id": "braindead-pique-thermal-polo-washed-black",
+      "name": "Brain Dead Pique Thermal Polo Shirt — Washed Black",
+      "price": 175,
+      "category": "polo",
+      "link": "https://wearebraindead.com/products/pique-thermal-polo-shirt-washed-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Pique_Thermal_Polo_Shirt_Washed_Black_Front_optimized.jpg?v=1791916386"
+        },
+        {
+          "label": "back",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Pique_Thermal_Polo_Shirt_Washed_Black_Back_optimized.jpg?v=1791916386"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-devin-pant-charcoal",
+      "name": "I Love Ugly Devin Pant — Charcoal",
+      "price": 125,
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/devin-pant-charcoal-1",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_96ba5ed8-a09e-43f6-a3aa-39a9ce89cf90.jpg?v=1790132784"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_437a38a1-d235-4a0d-ab4b-2f788a88cd3f.jpg?v=1790132784"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-twin-pleat-pant-dark-grey-herringbone",
+      "name": "I Love Ugly Twin Pleat Pant — Dark Grey Herringbone",
+      "price": 145,
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/twin-pleat-pant-dark-grey-herringbone",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_913be491-56cd-4b81-9bc7-0e018cf144fa.jpg?v=1790129812"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_b5d8800e-7ff5-4d63-a9d6-df466f62d1d2.jpg?v=1790129813"
+        }
+      ]
+    },
+    {
+      "id": "viski-glass-makoto-jigger",
+      "name": "Viski Glass Makoto Jigger",
+      "price": 19.99,
+      "category": "bar",
+      "link": "https://viski.com/products/12604",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0453/3089/0913/files/rqsb850j2rr8sb4gxcsl.jpg?v=1787841710"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0453/3089/0913/files/qmalmjcj2bmbbhzvhayt.jpg?v=1787841710"
+        }
+      ]
     }
   ]
 }
