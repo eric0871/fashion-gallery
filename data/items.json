@@ -1173,6 +1173,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0453/3089/0913/files/qmalmjcj2bmbbhzvhayt.jpg?v=1787841710"
         }
       ]
+    },
+    {
+      "id": "iloveugly-mercer-ls-flannel-shirt-offwhite-black-check",
+      "name": "I Love Ugly Mercer LS Flannel Shirt — Off White/Black Check",
+      "price": 99,
+      "category": "shirt",
+      "link": "https://www.iloveugly.com/products/mercer-ls-flannel-shirt-off-white-black-check",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_ed9dee72-5a16-4bf2-9adf-aee40ea768bb.jpg?v=1791943077"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_04d6eb36-18a6-47d8-987d-7ca17becc7d2.jpg?v=1791943078"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-winston-pant-smokey-brown",
+      "name": "I Love Ugly Winston Pant — Smokey Brown",
+      "price": 145,
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/winston-pant-smokey-brown",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_3421b17d-e5a4-4ddd-8116-0daf8b0a12e8.jpg?v=1790817020"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_2cb7247f-f76a-45ed-afe8-b3161c65b495.jpg?v=1790817020"
+        }
+      ]
+    },
+    {
+      "id": "braindead-paneled-pigment-football-shirt-navy",
+      "name": "Brain Dead Paneled Pigment Football Shirt — Navy",
+      "price": 175,
+      "category": "shirt",
+      "link": "https://wearebraindead.com/products/paneled-pigment-football-shirt-navy",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Paneled_Pigment_Football_Shirt_Navy_Front_optimized.jpg?v=1791927289"
+        },
+        {
+          "label": "back",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Paneled_Pigment_Football_Shirt_Navy_Back_optimized.jpg?v=1791927289"
+        }
+      ]
+    },
+    {
+      "id": "orbitkey-hanging-toiletry-pouch-black",
+      "name": "Orbitkey Hanging Toiletry Pouch — Black",
+      "price": 69,
+      "category": "travel",
+      "link": "https://orbitkey.com/products/hanging-toiletry-pouch",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0932/4482/files/HangingToiletryPouch-Black-4.jpg?v=1776234351"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0932/4482/files/HangingToiletryPouch-Black-2.jpg?v=1776234351"
+        }
+      ]
     }
   ]
 }
