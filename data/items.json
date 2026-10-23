@@ -1241,6 +1241,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0932/4482/files/HangingToiletryPouch-Black-2.jpg?v=1776234351"
         }
       ]
+    },
+    {
+      "id": "iloveugly-dawson-ss-shirt-white-black-stripe",
+      "name": "I Love Ugly Dawson SS Shirt — White/Black Stripe",
+      "price": "$99",
+      "category": "shirt",
+      "link": "https://www.iloveugly.com/products/dawson-ss-shirt-white-black-stripe",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_3b497624-5007-4b99-b6a4-ef505ffc4526.jpg?v=1791943261"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_80a3e8bb-c297-463c-be1f-46ad6b0cdf98.jpg?v=1791943262"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-winston-pant-forest-green",
+      "name": "I Love Ugly Winston Pant — Forest Green",
+      "price": "$145",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/winston-pant-forest-green",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_faf433f2-a1c6-40aa-9581-2cd038d43550.jpg?v=1786280643"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_33c10bc5-cf47-4adf-995d-28d574dcb265.jpg?v=1786280643"
+        }
+      ]
+    },
+    {
+      "id": "braindead-casey-stripe-ls-tee-brown",
+      "name": "Brain Dead Casey Stripe Long Sleeve T-shirt — Brown",
+      "price": "$135",
+      "category": "tshirt",
+      "link": "https://wearebraindead.com/products/casey-stripe-long-sleeve-t-shirt-brown",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Casey_Stripe_Long_Sleeve_Tshirt_Brown_Front_optimized.jpg?v=1791926598"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Casey_Stripe_Long_Sleeve_Tshirt_Brown_Detail_optimized.jpg?v=1791926598"
+        }
+      ]
+    },
+    {
+      "id": "orbitkey-nest-v2-black",
+      "name": "Orbitkey Nest v2 — Black",
+      "price": "$124.90",
+      "category": "electronics",
+      "link": "https://orbitkey.com/products/nest-v2",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0932/4482/files/Nestv2-Black-1.jpg?v=1751955232"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0932/4482/files/Nestv2-Black-3.jpg?v=1751955232"
+        }
+      ]
     }
   ]
 }
