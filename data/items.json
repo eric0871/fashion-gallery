@@ -1309,6 +1309,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0932/4482/files/Nestv2-Black-3.jpg?v=1751955232"
         }
       ]
+    },
+    {
+      "id": "brain-dead-type-02-washed-canvas-pant-natural",
+      "name": "Brain Dead Type 02 Washed Canvas Pant — Natural",
+      "price": 275,
+      "category": "pants",
+      "link": "https://wearebraindead.com/products/type-02-washed-canvas-pant-natural",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Type_02_Washed_Canvas_Pant_Natural_Front_optimized.jpg?v=1791924404"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Type_02_Washed_Canvas_Pant_Natural_Detail_Pocket_optimized.jpg?v=1791924403"
+        }
+      ]
+    },
+    {
+      "id": "brain-dead-collegiate-mercerized-track-pant-black",
+      "name": "Brain Dead Collegiate Mercerized Track Pant — Black",
+      "price": 245,
+      "category": "pants",
+      "link": "https://wearebraindead.com/products/collegiate-mercerized-track-pant-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/BDF26B00005300BK01_1.jpg?v=1790965187"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/BDF26B00005300BK01_5.jpg?v=1790965187"
+        }
+      ]
+    },
+    {
+      "id": "i-love-ugly-kobe-pant-charcoal-houndstooth",
+      "name": "I Love Ugly Kobe Pant — Charcoal Houndstooth",
+      "price": 129,
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/kobe-pant-charcoal-houndstooth",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_0a685ed6-3b01-40e2-ab15-caac89661179.jpg?v=1790130431"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_d6c2c9b8-7f95-47a1-820f-9d9bc0064ed8.jpg?v=1790130432"
+        }
+      ]
+    },
+    {
+      "id": "bala-wavy-roller-blush",
+      "name": "Bala The Wavy Roller — Blush",
+      "price": 39,
+      "category": "fitness",
+      "link": "https://shopbala.com/products/the-wavy-roller",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BLUSH_37b4e13a-f5d5-4102-89b4-0fb25f8d0dac.jpg?v=1786744603"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BLUSH_c12ef2b8-e0a6-4944-abe4-4e90fcb2b0ef.jpg?v=1786744621"
+        }
+      ]
     }
   ]
 }
