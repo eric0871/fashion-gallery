@@ -1445,6 +1445,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0528/1025/2487/files/7_ba659d28-e4b8-4b57-a0bb-70b2deb2cdfe.png?v=1771009205"
         }
       ]
+    },
+    {
+      "id": "brain-dead-pigment-dyed-french-terry-cardigan-washed-black",
+      "name": "Brain Dead Pigment Dyed French Terry Cardigan — Washed Black",
+      "price": 265,
+      "category": "sweatshirt",
+      "link": "https://wearebraindead.com/products/pigment-dyed-french-terry-cardigan-washed-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Pigment_Dyed_French_Terry_Cardigan_Washed_Black_Front_optimized.jpg?v=1791926999"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Pigment_Dyed_French_Terry_Cardigan_Washed_Black_Detail_optimized.jpg?v=1791926999"
+        }
+      ]
+    },
+    {
+      "id": "i-love-ugly-kingston-oversized-shirt-white-black-beige-stripe",
+      "name": "I Love Ugly Kingston Oversized Shirt — White/Black/Beige Stripe",
+      "price": 95,
+      "category": "shirt",
+      "link": "https://www.iloveugly.com/products/kingston-oversized-shirt-white-black-beige-stripe",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_da1f0254-18f0-4a58-987f-f0d416dfedab.jpg?v=1792529541"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_9dc1f1af-1c57-4cf6-8b3c-24b3263b336a.jpg?v=1792529541"
+        }
+      ]
+    },
+    {
+      "id": "i-love-ugly-barrel-leg-crop-pant-indigo",
+      "name": "I Love Ugly Barrel Leg Crop Pant — Indigo",
+      "price": 139,
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/barrel-leg-crop-pant-indigo",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_5ced01da-9442-4485-965f-f569e3d6e9f9.jpg?v=1790119644"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_1e1d666f-5e24-41c2-aaee-d546af4a3532.jpg?v=1790119644"
+        }
+      ]
+    },
+    {
+      "id": "leaf-two-razor-black",
+      "name": "Leaf Shave Leaf Two Razor (Version 2.1) — Black",
+      "price": 109,
+      "category": "grooming",
+      "link": "https://leafshave.com/products/leaf-two-razor-2-1",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0435/8324/2406/files/PDP-Leaf-2.1-Badge-Razor-Black-Web.jpg?v=1791988628"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0435/8324/2406/files/PDP-Leaf-2.1-Black-Carousel-Head_Shave-Web.jpg?v=1791989104"
+        }
+      ]
     }
   ]
 }
