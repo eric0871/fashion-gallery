@@ -1513,6 +1513,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0435/8324/2406/files/PDP-Leaf-2.1-Black-Carousel-Head_Shave-Web.jpg?v=1791989104"
         }
       ]
+    },
+    {
+      "id": "brain-dead-type-00-selvedge-denim-stonewash-indigo",
+      "name": "Brain Dead Type 00 15oz Selvedge Denim Pant — Stonewash Indigo",
+      "price": 325,
+      "category": "jeans",
+      "link": "https://wearebraindead.com/products/type-00-15oz-selvedge-denim-pant-stonewash-indigo",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Type_00_15oz_Selvedge_Denim_Pant_-_Stonewash_Indigo_01-optimized.jpg?v=1760483541"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Type_00_15oz_Selvedge_Denim_Pant_-_Stonewash_Indigo_02-optimized.jpg?v=1760483541"
+        }
+      ]
+    },
+    {
+      "id": "i-love-ugly-mercer-ls-flannel-shirt-mustard-check",
+      "name": "I Love Ugly Mercer LS Flannel Shirt — Mustard Check",
+      "price": 99,
+      "category": "shirt",
+      "link": "https://www.iloveugly.com/products/mercer-ls-flannel-shirt-mustard-check",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_e14a255d-178d-49d9-a7de-f12e8ea7425b.jpg?v=1791943108"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_bc921644-46ff-42c4-a78c-28da4b4956db.jpg?v=1791943109"
+        }
+      ]
+    },
+    {
+      "id": "i-love-ugly-quincy-pleated-short-espresso",
+      "name": "I Love Ugly Quincy Pleated Short — Espresso",
+      "price": 95,
+      "category": "shorts",
+      "link": "https://www.iloveugly.com/products/quincy-pleated-short-espresso",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_8e753751-bf88-4c6c-83ae-3edec907be87.jpg?v=1791170104"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_93dcf443-ef86-46d5-9813-15f8fda35468.jpg?v=1791170105"
+        }
+      ]
+    },
+    {
+      "id": "areaware-everybody-night-light-green",
+      "name": "Areaware Everybody Night Light — Green",
+      "price": 35,
+      "category": "home",
+      "link": "https://areaware.com/products/everybody-night-light-in-green",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0168/6168/files/EverybodyNightLight-YellowGreen-Silo-01-DDHENLYG.jpg?v=1738966992"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0168/6168/files/EverybodyNightLight-Group-Silo-01-DDHENL.jpg?v=1738809970"
+        }
+      ]
     }
   ]
 }
