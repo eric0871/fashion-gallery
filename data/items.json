@@ -1581,6 +1581,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0168/6168/files/EverybodyNightLight-Group-Silo-01-DDHENL.jpg?v=1738809970"
         }
       ]
+    },
+    {
+      "id": "iloveugly-barrel-leg-crop-pant-black",
+      "name": "I Love Ugly Barrel Leg Crop Pant — Black",
+      "price": 139,
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/barrel-leg-crop-pant-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_8732a8a0-46af-4473-800b-16c578b9feea.jpg?v=1790118895"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_4dd8ffcc-7e9a-4b5a-9fd3-c0c86f384713.jpg?v=1790118895"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-dawson-ss-shirt-navy-black-check",
+      "name": "I Love Ugly Dawson SS Shirt — Navy/Black Check",
+      "price": 99,
+      "category": "shirt",
+      "link": "https://www.iloveugly.com/products/dawson-ss-shirt-navy-black-check",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_b89021f3-ff97-49a1-b06d-7f3e6aa2d6a8.jpg?v=1791943321"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_d17ecc3f-bc0f-4eb6-bbc2-9007ab084dd0.jpg?v=1791943322"
+        }
+      ]
+    },
+    {
+      "id": "braindead-type02-washed-canvas-pant-black",
+      "name": "Brain Dead Type 02 Washed Canvas Pant — Black",
+      "price": 275,
+      "category": "pants",
+      "link": "https://wearebraindead.com/products/type-02-washed-canvas-pant-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Type_02_Washed_Canvas_Pant_Black_Front_optimized.jpg?v=1791924384"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Type_02_Washed_Canvas_Pant_Black_Pocket_optimized.jpg?v=1791924384"
+        }
+      ]
+    },
+    {
+      "id": "esr-dashboard-car-phone-mount-halolock-black",
+      "name": "ESR Dashboard Car Phone Mount (HaloLock) — Black",
+      "price": 24.99,
+      "category": "car",
+      "link": "https://www.esrgear.com/products/halolock-dashboard-car-phone-mount",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Dashboard-Car-Phone-Mount-HaloLock-zt03.jpg?v=1742206029"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Dashboard-Car-Phone-Mount-HaloLock-zt02.jpg?v=1742206032"
+        }
+      ]
     }
   ]
 }
