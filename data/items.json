@@ -1649,6 +1649,74 @@
           "url": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Dashboard-Car-Phone-Mount-HaloLock-zt02.jpg?v=1742206032"
         }
       ]
+    },
+    {
+      "id": "todd-snyder-new-balance-t500-milk",
+      "name": "Todd Snyder × New Balance T500 Sneaker — Milk",
+      "price": "$130",
+      "category": "shoes",
+      "link": "https://www.toddsnyder.com/collections/new-balance/products/ts-x-nb-t500desert-beige",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0186/1574/files/U50016C_DESERTBEIGE_1_R_8f43aafc-d4e5-4589-8306-6aa1f4962469.jpg?v=1792515965"
+        },
+        {
+          "label": "side",
+          "url": "https://cdn.shopify.com/s/files/1/0186/1574/files/U50016C_DESERTBEIGE_2_R_2fcdc629-f3be-4282-95f1-259eab9ba8aa.jpg?v=1792515965"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-dallas-loose-denim-washed-vintage-blue",
+      "name": "I Love Ugly Dallas Loose Denim — Washed Vintage Blue",
+      "price": "$149",
+      "category": "jeans",
+      "link": "https://www.iloveugly.com/products/dallas-loose-denim-washed-vintage-blue",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_9fea118a-0d09-4128-ae88-e087b153f4fd.jpg?v=1789436886"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_897be4e1-ddad-4fc2-b86f-b55dd4025891.jpg?v=1789436887"
+        }
+      ]
+    },
+    {
+      "id": "iloveugly-vermont-pleat-pant-black",
+      "name": "I Love Ugly Vermont Pleat Pant — Black",
+      "price": "$145",
+      "category": "pants",
+      "link": "https://www.iloveugly.com/products/vermont-pleat-pant-black",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1_0cc8d5c3-d5df-4cc7-a1c9-ac8c1cff7501.jpg?v=1787233738"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO11.jpg?v=1787233739"
+        }
+      ]
+    },
+    {
+      "id": "a-bar-above-standard-bar-spoons",
+      "name": "A Bar Above Standard Bar Spoons (Set of 2)",
+      "price": "$18",
+      "category": "bar",
+      "link": "https://shop.abarabove.com/products/standard-bar-spoons",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0562/0950/6394/files/Photo05_1200_bc992fb8-6ee5-4e15-bbcf-ecf70ed2a819.jpg?v=1762482238"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0562/0950/6394/products/BeginnertoPro.jpg?v=1741636060"
+        }
+      ]
     }
   ]
 }
