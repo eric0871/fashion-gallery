@@ -1870,6 +1870,57 @@
           "url": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Bangles_1lb_Charcoal_Render_Closeup_DTC_2400x3000_1a835a92-c7e9-475b-824f-6d971f1dd88f.jpg?v=1759407607"
         }
       ]
+    },
+    {
+      "id": "brain-dead-organic-waffle-knit-mixed-greys",
+      "name": "Brain Dead Organic Waffle Knit Top — Mixed Greys",
+      "price": "$140",
+      "category": "sweatshirt",
+      "link": "https://wearebraindead.com/products/organic-waffle-knit-top-mixed-greys",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Organic_Waffle_Knit_Top_Mixed_Greys_Front_optimized.jpg?v=1792524439"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Organic_Waffle_Knit_Top_Mixed_Greys_Detail_optimized.jpg?v=1792524439"
+        }
+      ]
+    },
+    {
+      "id": "brain-dead-long-sleeve-hitting-shirt-dusk-green",
+      "name": "Brain Dead Long Sleeve Hitting Shirt — Dusk Green",
+      "price": "$185",
+      "category": "shirt",
+      "link": "https://wearebraindead.com/products/long-sleeve-hitting-shirt-dusk-green",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Long_Sleeve_Hitting_Shirt_Dusk_Green_Front_optimized.jpg?v=1792524751"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Long_Sleeve_Hitting_Shirt_Dusk_Green_Detail_optimized.jpg?v=1792524751"
+        }
+      ]
+    },
+    {
+      "id": "steamery-cirrus-lite-travel-steamer-charcoal",
+      "name": "Steamery Cirrus Lite Travel Steamer — Charcoal",
+      "price": "$140",
+      "category": "care",
+      "link": "https://steamery.us/products/cirrus-lite-travel-steamer-charcoal",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0726/8083/3199/files/steamery_cirrus_lite_charcoal_product_packshot_website_4x6_02.png?v=1779089650"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0726/8083/3199/files/steamery_cirrus_lite_charcoal_product_packshot_website_4x6_03.png?v=1776843611"
+        }
+      ]
     }
   ]
 }
