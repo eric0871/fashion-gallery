@@ -1955,6 +1955,40 @@
       "link": "https://www.manscaped.com/products/the-beard-hedger",
       "name": "MANSCAPED The Beard Hedger Electric Beard Trimmer",
       "price": "$99.99"
+    },
+    {
+      "id": "sky-high-on-cloudrock-low-wp-black-celery",
+      "name": "Sky High Goods × On Cloudrock Low WP SHF — Black/Celery",
+      "price": "$210",
+      "category": "shoes",
+      "link": "https://skyhighfarmgoods.com/products/cloudrock-low-wp-shf-black-celery",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0614/3223/4218/files/3MG11355557-cloudrock_low_wp_shf-ss26-black_celery-m-1x1-g1.jpg?v=1768431253&width=1440&height=1440&crop=center"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0614/3223/4218/files/3MG11355557-cloudrock_low_wp_shf-ss26-black_celery-m-1x1-g2.jpg?v=1768431249&width=1440&height=1440&crop=center"
+        }
+      ]
+    },
+    {
+      "id": "gantri-cantilever-table-light-sand",
+      "name": "Gantri Cantilever Table Light — Sand",
+      "price": "$248",
+      "category": "home",
+      "link": "https://www.gantri.com/products/10047/cantilever-table-light-by-louis-filosa?sku=10047-sm-sunrise",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://res.cloudinary.com/gantri/image/upload/dynamic-assets/gantri/products/10047/10047-sm-sand/product-photos/10047-sm-sand--product-photos-db549b31-3b69-439f-9693-29615baad378_1753208389285.jpg"
+        },
+        {
+          "label": "detail",
+          "url": "https://res.cloudinary.com/gantri/image/upload/ar_636:477,c_lfill,w_640/q_auto/dpr_auto/f_auto/v1/dynamic-assets/gantri/products/10047/10047-sm-sand/scale-photo/10047-sm-sand--scale-photo-ce48b959-3871-451b-a66a-3b29f69a9829_1730387773851"
+        }
+      ]
     }
   ]
 }
