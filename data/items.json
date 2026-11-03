@@ -342,11 +342,8 @@
       "price": "$190"
     },
     {
-      "id": "mr-p-wide-leg-pleated-wool-trousers-navy",
-      "name": "MR P. Wide-Leg Pleated Wool Suit Trousers — Navy",
-      "price": "$325",
       "category": "pants",
-      "link": "https://www.mrporter.com/en-us/mens/product/mr-p/clothing/suit-trousers/wide-leg-pleated-wool-suit-trousers/46376663163114546",
+      "id": "mr-p-wide-leg-pleated-wool-trousers-navy",
       "images": [
         {
           "label": "front",
@@ -356,14 +353,14 @@
           "label": "back",
           "url": "https://www.mrporter.com/variants/images/46376663163114546/bk/w2000_q60.jpg"
         }
-      ]
+      ],
+      "link": "https://www.mrporter.com/en-us/mens/product/mr-p/clothing/suit-trousers/wide-leg-pleated-wool-suit-trousers/46376663163114546",
+      "name": "MR P. Wide-Leg Pleated Wool Suit Trousers — Navy",
+      "price": "$325"
     },
     {
-      "id": "homme-plisse-monthly-colors-october-glow-cream",
-      "name": "Homme Plissé Issey Miyake Monthly Colors October Open Collar Shirt — Glow Cream",
-      "price": "$535",
       "category": "shirt",
-      "link": "https://us.isseymiyake.com/products/hp68-jj101",
+      "id": "homme-plisse-monthly-colors-october-glow-cream",
       "images": [
         {
           "label": "front",
@@ -373,14 +370,14 @@
           "label": "model",
           "url": "https://us.isseymiyake.com/cdn/shop/files/HP63JJ101-c-01.jpg?v=1790979074&width=1200"
         }
-      ]
+      ],
+      "link": "https://us.isseymiyake.com/products/hp68-jj101",
+      "name": "Homme Plissé Issey Miyake Monthly Colors October Open Collar Shirt — Glow Cream",
+      "price": "$535"
     },
     {
-      "id": "byredo-bibliotheque-candle",
-      "name": "BYREDO Bibliothèque Candle — 240g",
-      "price": "$95",
       "category": "fragrance",
-      "link": "https://www.nordstrom.com/s/byredo-bibliotheque-candle/4772001",
+      "id": "byredo-bibliotheque-candle",
       "images": [
         {
           "label": "front",
@@ -390,14 +387,14 @@
           "label": "detail",
           "url": "https://n.nordstrommedia.com/it/b334de5a-a624-4d6a-8360-464626da77ee.jpeg?w=780&h=1170&crop=pad"
         }
-      ]
+      ],
+      "link": "https://www.nordstrom.com/s/byredo-bibliotheque-candle/4772001",
+      "name": "BYREDO Bibliothèque Candle — 240g",
+      "price": "$95"
     },
     {
-      "id": "jack-victor-johnny-collar-black-setico",
-      "name": "Jack Victor Johnny Collar Black SetiCo Polo — Black",
-      "price": "$248",
       "category": "polo",
-      "link": "https://www.jackvictor.com/products/johnny-collar-sweater-black-v261093-blk",
+      "id": "jack-victor-johnny-collar-black-setico",
       "images": [
         {
           "label": "front",
@@ -407,14 +404,14 @@
           "label": "model",
           "url": "https://cdn.shopify.com/s/files/1/0493/6938/3079/files/V261093__BLK_OM1.jpg?v=1770762684"
         }
-      ]
+      ],
+      "link": "https://www.jackvictor.com/products/johnny-collar-sweater-black-v261093-blk",
+      "name": "Jack Victor Johnny Collar Black SetiCo Polo — Black",
+      "price": "$248"
     },
     {
-      "id": "cos-chunky-cashmere-mock-neck-navy",
-      "name": "COS Chunky Cashmere Mock-Neck Sweater — Navy",
-      "price": "$359",
       "category": "sweater",
-      "link": "https://www.cos.com/en-us/men/menswear/knitwear/jumpers/wool/product/chunky-cashmere-funnel-neck-jumper-navy-1302326002",
+      "id": "cos-chunky-cashmere-mock-neck-navy",
       "images": [
         {
           "label": "front",
@@ -424,14 +421,14 @@
           "label": "detail",
           "url": "https://media.cos.com/assets/001/24/6e/246e8249d846e25e72a30896c59172a4e02be235_lg-1.jpg?imwidth=1200"
         }
-      ]
+      ],
+      "link": "https://www.cos.com/en-us/men/menswear/knitwear/jumpers/wool/product/chunky-cashmere-funnel-neck-jumper-navy-1302326002",
+      "name": "COS Chunky Cashmere Mock-Neck Sweater — Navy",
+      "price": "$359"
     },
     {
-      "id": "aesop-eleos-hand-balm",
-      "name": "Aesop Eleos Aromatique Hand Balm — 75ml",
-      "price": "$37",
       "category": "grooming",
-      "link": "https://bluemercury.com/products/aesop-eleos-aromatique-hand-balm",
+      "id": "aesop-eleos-hand-balm",
       "images": [
         {
           "label": "front",
@@ -441,14 +438,14 @@
           "label": "detail",
           "url": "https://assets.feelunique.com/img/products/180431/aesop_eleos_aromatique_hand_balm_500ml-1710663392.jpg"
         }
-      ]
+      ],
+      "link": "https://bluemercury.com/products/aesop-eleos-aromatique-hand-balm",
+      "name": "Aesop Eleos Aromatique Hand Balm — 75ml",
+      "price": "$37"
     },
     {
-      "id": "i-love-ugly-suede-overshirt-stone",
-      "name": "I Love Ugly Suede Overshirt — Stone",
-      "price": "$159",
       "category": "jacket",
-      "link": "https://www.iloveugly.com/products/suede-overshirt-stone",
+      "id": "i-love-ugly-suede-overshirt-stone",
       "images": [
         {
           "label": "front",
@@ -458,14 +455,14 @@
           "label": "model",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_077f4cfb-179b-4dab-80b7-a63dab1d0dee.jpg?v=1789432276"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/suede-overshirt-stone",
+      "name": "I Love Ugly Suede Overshirt — Stone",
+      "price": "$159"
     },
     {
-      "id": "i-love-ugly-barrel-leg-slack-pant-black",
-      "name": "I Love Ugly Barrel Leg Slack Pant — Black",
-      "price": "$139",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/barrel-leg-slack-pant-black",
+      "id": "i-love-ugly-barrel-leg-slack-pant-black",
       "images": [
         {
           "label": "front",
@@ -475,14 +472,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_c5b15c32-f432-4ac3-9a47-39b5f6abe56b.jpg?v=1788313012"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/barrel-leg-slack-pant-black",
+      "name": "I Love Ugly Barrel Leg Slack Pant — Black",
+      "price": "$139"
     },
     {
-      "id": "homecourt-linen-spray",
-      "name": "Homecourt Linen Spray",
-      "price": "$34",
       "category": "home",
-      "link": "https://homecourt.co/products/linen-spray",
+      "id": "homecourt-linen-spray",
       "images": [
         {
           "label": "front",
@@ -492,14 +489,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0591/6324/6743/files/Laundry_PDP_LINEN_SPRAY_NL.jpg?v=1741993092"
         }
-      ]
+      ],
+      "link": "https://homecourt.co/products/linen-spray",
+      "name": "Homecourt Linen Spray",
+      "price": "$34"
     },
     {
-      "id": "braindead-anderssonbell-tiedye-shirt-multi",
-      "name": "Brain Dead × Andersson Bell Tie-Dyed Shirt — Multi",
-      "price": "$300",
       "category": "shirt",
-      "link": "https://wearebraindead.com/products/andersson-bell-x-brain-dead-tie-dyed-shirt-multi",
+      "id": "braindead-anderssonbell-tiedye-shirt-multi",
       "images": [
         {
           "label": "front",
@@ -509,14 +506,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Andersson_Bell_x_Brain_Dead_Tie_Dyed_Shirt_Brown_Detail_optimized.jpg?v=1774285157"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/andersson-bell-x-brain-dead-tie-dyed-shirt-multi",
+      "name": "Brain Dead × Andersson Bell Tie-Dyed Shirt — Multi",
+      "price": "$300"
     },
     {
-      "id": "saltstone-bodywash-santal-vetiver",
-      "name": "SALT & STONE Body Wash — Santal & Vetiver 450ml",
-      "price": "$36",
       "category": "grooming",
-      "link": "https://www.saltandstone.com/products/body-wash",
+      "id": "saltstone-bodywash-santal-vetiver",
       "images": [
         {
           "label": "front",
@@ -526,14 +523,14 @@
           "label": "lifestyle",
           "url": "https://cdn.shopify.com/s/files/1/1916/1271/files/Body_Wash_S_V_-_2.jpg?v=1761775001"
         }
-      ]
+      ],
+      "link": "https://www.saltandstone.com/products/body-wash",
+      "name": "SALT & STONE Body Wash — Santal & Vetiver 450ml",
+      "price": "$36"
     },
     {
-      "id": "i-love-ugly-kobe-pant-grey-houndstooth",
-      "name": "I Love Ugly Kobe Pant — Grey Houndstooth",
-      "price": "$125",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/kobe-pant-grey-houndstooth",
+      "id": "i-love-ugly-kobe-pant-grey-houndstooth",
       "images": [
         {
           "label": "front",
@@ -543,14 +540,14 @@
           "label": "on-body",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_3e0368c2-114c-4b60-9fc8-ad5d429d6d44.jpg?v=1791423182"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/kobe-pant-grey-houndstooth",
+      "name": "I Love Ugly Kobe Pant — Grey Houndstooth",
+      "price": "$125"
     },
     {
-      "id": "i-love-ugly-mason-suede-jacket-charcoal",
-      "name": "I Love Ugly Mason Suede Jacket — Charcoal",
-      "price": "$179",
       "category": "jacket",
-      "link": "https://www.iloveugly.com/products/mason-suede-jacket-charcoal",
+      "id": "i-love-ugly-mason-suede-jacket-charcoal",
       "images": [
         {
           "label": "front",
@@ -560,14 +557,14 @@
           "label": "on-body",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_a3751c4b-1f05-4b33-9db0-e12db18046d7.jpg?v=1789434958"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/mason-suede-jacket-charcoal",
+      "name": "I Love Ugly Mason Suede Jacket — Charcoal",
+      "price": "$179"
     },
     {
-      "id": "boy-smells-hinoki-fantome-candle-9oz",
-      "name": "Boy Smells Hinoki Fantôme Candle — 9oz",
-      "price": "$44",
       "category": "fragrance",
-      "link": "https://boysmells.com/products/hinoki-fantome-candle-9oz",
+      "id": "boy-smells-hinoki-fantome-candle-9oz",
       "images": [
         {
           "label": "front",
@@ -577,14 +574,14 @@
           "label": "box",
           "url": "https://cdn.shopify.com/s/files/1/0068/9494/4323/files/BS_PDP_Standard_Candle_Box_Front_Hinoki_Fantome_copy.png?v=1747681547"
         }
-      ]
+      ],
+      "link": "https://boysmells.com/products/hinoki-fantome-candle-9oz",
+      "name": "Boy Smells Hinoki Fantôme Candle — 9oz",
+      "price": "$44"
     },
     {
-      "id": "i-love-ugly-twin-pleat-pant-black",
-      "name": "I Love Ugly Twin Pleat Pant — Black",
-      "price": "$145",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/twin-pleat-pant-black",
+      "id": "i-love-ugly-twin-pleat-pant-black",
       "images": [
         {
           "label": "front",
@@ -594,14 +591,14 @@
           "label": "on-body",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO26.jpg?v=1784252846"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/twin-pleat-pant-black",
+      "name": "I Love Ugly Twin Pleat Pant — Black",
+      "price": "$145"
     },
     {
-      "id": "i-love-ugly-crop-ls-shirt-white-poplin",
-      "name": "I Love Ugly Crop LS Shirt — White Poplin",
-      "price": "$99",
       "category": "shirt",
-      "link": "https://www.iloveugly.com/products/crop-ls-shirt-white-poplin-1",
+      "id": "i-love-ugly-crop-ls-shirt-white-poplin",
       "images": [
         {
           "label": "front",
@@ -611,14 +608,14 @@
           "label": "on-body",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_9358d7ac-df8a-47d9-8c10-a8701d9431b8.jpg?v=1789435347"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/crop-ls-shirt-white-poplin-1",
+      "name": "I Love Ugly Crop LS Shirt — White Poplin",
+      "price": "$99"
     },
     {
-      "id": "viski-glacier-rocks-steel-sphere",
-      "name": "Viski Glacier Rocks Large Stainless Steel Sphere",
-      "price": "$24.99",
       "category": "bar",
-      "link": "https://viski.com/collections/viski-items/products/3425",
+      "id": "viski-glacier-rocks-steel-sphere",
       "images": [
         {
           "label": "front",
@@ -628,14 +625,14 @@
           "label": "in-glass",
           "url": "https://cdn.shopify.com/s/files/1/0453/3089/0913/files/m2kobkmm7u7y0h76cgjp.jpg?v=1775138638"
         }
-      ]
+      ],
+      "link": "https://viski.com/collections/viski-items/products/3425",
+      "name": "Viski Glacier Rocks Large Stainless Steel Sphere",
+      "price": "$24.99"
     },
     {
-      "id": "birkenstock-1774-uerzell-taupe",
-      "name": "Birkenstock 1774 Uerzell Suede — Taupe",
-      "price": "$395",
       "category": "shoes",
-      "link": "https://www.birkenstock.com/us/1774-uerzell-suede-suede-leather/thibogranddad-Uerzell1774-naturalleather-0-thermorubber-u_27.html",
+      "id": "birkenstock-1774-uerzell-taupe",
       "images": [
         {
           "label": "side",
@@ -645,14 +642,14 @@
           "label": "top",
           "url": "https://cdn.shopify.com/s/files/1/0591/3342/7884/files/1774-uerzell-suede-top-1031918.jpg?v=1769562802"
         }
-      ]
+      ],
+      "link": "https://www.birkenstock.com/us/1774-uerzell-suede-suede-leather/thibogranddad-Uerzell1774-naturalleather-0-thermorubber-u_27.html",
+      "name": "Birkenstock 1774 Uerzell Suede — Taupe",
+      "price": "$395"
     },
     {
-      "id": "i-love-ugly-linen-kobe-pant-mushroom",
-      "name": "I Love Ugly Linen Kobe Pant — Mushroom",
-      "price": "$125",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/linen-kobe-pant-mushroom",
+      "id": "i-love-ugly-linen-kobe-pant-mushroom",
       "images": [
         {
           "label": "front",
@@ -662,14 +659,14 @@
           "label": "model",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_e8efa66e-0d72-4f50-b2b2-a874a5f20229.jpg?v=1788747976"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/linen-kobe-pant-mushroom",
+      "name": "I Love Ugly Linen Kobe Pant — Mushroom",
+      "price": "$125"
     },
     {
-      "id": "i-love-ugly-balloon-pleat-pant-brown",
-      "name": "I Love Ugly Balloon Pleat Pant — Brown",
-      "price": "$139",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/balloon-pleat-pant-brown",
+      "id": "i-love-ugly-balloon-pleat-pant-brown",
       "images": [
         {
           "label": "front",
@@ -679,14 +676,14 @@
           "label": "model",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_50781574-955a-45d7-a210-b3b63f63a9c9.jpg?v=1789437403"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/balloon-pleat-pant-brown",
+      "name": "I Love Ugly Balloon Pleat Pant — Brown",
+      "price": "$139"
     },
     {
-      "id": "bellroy-tech-kit-black",
-      "name": "Bellroy Tech Kit — Black",
-      "price": "$89",
       "category": "travel",
-      "link": "https://hewhoseeks.au/products/bellroy-tech-kit-black",
+      "id": "bellroy-tech-kit-black",
       "images": [
         {
           "label": "front",
@@ -696,14 +693,14 @@
           "label": "open",
           "url": "https://cdn.shopify.com/s/files/1/0586/2742/4446/files/1_aa31618f-fbc5-4e09-aaa4-e83a74ab39be.webp?v=1694436957"
         }
-      ]
+      ],
+      "link": "https://hewhoseeks.au/products/bellroy-tech-kit-black",
+      "name": "Bellroy Tech Kit — Black",
+      "price": "$89"
     },
     {
-      "id": "iloveugly-faux-leather-bomber-black",
-      "name": "I Love Ugly Faux Leather Bomber Jacket — Black",
-      "price": "$195",
       "category": "jacket",
-      "link": "https://www.iloveugly.com/products/faux-leather-bomber-jacket-black",
+      "id": "iloveugly-faux-leather-bomber-black",
       "images": [
         {
           "label": "front",
@@ -713,14 +710,14 @@
           "label": "on-body",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_b004047d-3b85-4a9e-bb45-651a653d880e.jpg?v=1789435874"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/faux-leather-bomber-jacket-black",
+      "name": "I Love Ugly Faux Leather Bomber Jacket — Black",
+      "price": "$195"
     },
     {
-      "id": "iloveugly-grid-box-knit-polo-black",
-      "name": "I Love Ugly Grid Box Knit Polo — Black",
-      "price": "$99",
       "category": "polo",
-      "link": "https://www.iloveugly.com/products/grid-box-knit-polo-black",
+      "id": "iloveugly-grid-box-knit-polo-black",
       "images": [
         {
           "label": "front",
@@ -730,14 +727,14 @@
           "label": "on-body",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_cce14c9d-a8d1-4ffd-a080-2f39fb24bc9a.jpg?v=1789435973"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/grid-box-knit-polo-black",
+      "name": "I Love Ugly Grid Box Knit Polo — Black",
+      "price": "$99"
     },
     {
-      "id": "iloveugly-winston-pant-charcoal-black-check",
-      "name": "I Love Ugly Winston Pant — Charcoal/Black Check",
-      "price": "$145",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/winston-pant-charcoal-black-check",
+      "id": "iloveugly-winston-pant-charcoal-black-check",
       "images": [
         {
           "label": "front",
@@ -747,14 +744,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_2dca824d-ca1f-4e96-ae07-2f97a787d8ba.jpg?v=1788740590"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/winston-pant-charcoal-black-check",
+      "name": "I Love Ugly Winston Pant — Charcoal/Black Check",
+      "price": "$145"
     },
     {
-      "id": "orbitkey-key-organizer-tracker-black",
-      "name": "Orbitkey Key Organizer Tracker — Black",
-      "price": "$69.90",
       "category": "electronics",
-      "link": "https://orbitkey.com/products/key-organiser-tracker",
+      "id": "orbitkey-key-organizer-tracker-black",
       "images": [
         {
           "label": "front",
@@ -764,14 +761,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0932/4482/files/Orbitkey-KeyOrganiserTracker-Leatherfree-4.jpg?v=1788375868"
         }
-      ]
+      ],
+      "link": "https://orbitkey.com/products/key-organiser-tracker",
+      "name": "Orbitkey Key Organizer Tracker — Black",
+      "price": "$69.90"
     },
     {
-      "id": "iloveugly-box-knit-polo-navy-off-white",
-      "name": "I Love Ugly Box Knit Polo — Navy/Off White",
-      "price": 99,
       "category": "polo",
-      "link": "https://www.iloveugly.com/products/box-knit-polo-navy-off-white",
+      "id": "iloveugly-box-knit-polo-navy-off-white",
       "images": [
         {
           "label": "front",
@@ -781,14 +778,14 @@
           "label": "on-body",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_d3d66e3e-5d0e-4e4d-ad48-97069b172551.jpg?v=1789006783"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/box-knit-polo-navy-off-white",
+      "name": "I Love Ugly Box Knit Polo — Navy/Off White",
+      "price": 99
     },
     {
-      "id": "iloveugly-linen-kobe-pant-bone",
-      "name": "I Love Ugly Linen Kobe Pant — Bone",
-      "price": 129,
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/linen-kobe-pant-bone",
+      "id": "iloveugly-linen-kobe-pant-bone",
       "images": [
         {
           "label": "front",
@@ -798,14 +795,14 @@
           "label": "on-body",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_a9deeea3-d85b-42a7-82e5-6066e002dc04.jpg?v=1788749759"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/linen-kobe-pant-bone",
+      "name": "I Love Ugly Linen Kobe Pant — Bone",
+      "price": 129
     },
     {
-      "id": "braindead-type02-canvas-pant-washed-black",
-      "name": "Brain Dead Type 02 Canvas Pant — Washed Black",
-      "price": 350,
       "category": "pants",
-      "link": "https://wearebraindead.com/products/type-02-canvas-pant-black",
+      "id": "braindead-type02-canvas-pant-washed-black",
       "images": [
         {
           "label": "front",
@@ -815,14 +812,14 @@
           "label": "back",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Type02_Pant_Black_Canvas_Back-optimized.jpg?v=1780498279"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/type-02-canvas-pant-black",
+      "name": "Brain Dead Type 02 Canvas Pant — Washed Black",
+      "price": 350
     },
     {
-      "id": "therabody-theragun-mini-gen3-black",
-      "name": "Therabody Theragun Mini (Gen 3) — Black",
-      "price": 219.99,
       "category": "fitness",
-      "link": "https://www.therabody.com/products/theragun-mini-gen-3-black",
+      "id": "therabody-theragun-mini-gen3-black",
       "images": [
         {
           "label": "front",
@@ -832,14 +829,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0671/4097/6867/files/Theragun-Mini-3-Black-Hero-2.webp?v=1743189989"
         }
-      ]
+      ],
+      "link": "https://www.therabody.com/products/theragun-mini-gen-3-black",
+      "name": "Therabody Theragun Mini (Gen 3) — Black",
+      "price": 219.99
     },
     {
-      "id": "iloveugly-cropped-90s-denim-vintage-blue",
-      "name": "I Love Ugly Cropped 90s Denim — Vintage Blue",
-      "price": 149,
       "category": "jeans",
-      "link": "https://www.iloveugly.com/products/cropped-90s-denim-vintage-blue-1",
+      "id": "iloveugly-cropped-90s-denim-vintage-blue",
       "images": [
         {
           "label": "front",
@@ -849,14 +846,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_73b04e2f-f583-4bc7-8ece-cf32ff72b49a.jpg?v=1788301902"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/cropped-90s-denim-vintage-blue-1",
+      "name": "I Love Ugly Cropped 90s Denim — Vintage Blue",
+      "price": 149
     },
     {
-      "id": "iloveugly-box-cuban-collar-shirt-concrete-check",
-      "name": "I Love Ugly Box Cuban Collar Shirt — Concrete Check",
-      "price": 95,
       "category": "shirt",
-      "link": "https://www.iloveugly.com/products/box-cuban-collar-shirt-concrete-check",
+      "id": "iloveugly-box-cuban-collar-shirt-concrete-check",
       "images": [
         {
           "label": "front",
@@ -866,14 +863,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_70fe00a9-74ed-4608-a772-8829a422c5bf.jpg?v=1789434198"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/box-cuban-collar-shirt-concrete-check",
+      "name": "I Love Ugly Box Cuban Collar Shirt — Concrete Check",
+      "price": 95
     },
     {
-      "id": "braindead-fatigue-overshirt-olive",
-      "name": "Brain Dead Fatigue Overshirt — Olive",
-      "price": 275,
       "category": "jacket",
-      "link": "https://wearebraindead.com/products/discharge-fatigue-overshirt-olive",
+      "id": "braindead-fatigue-overshirt-olive",
       "images": [
         {
           "label": "front",
@@ -883,14 +880,14 @@
           "label": "back",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Discharge_Fatigue_Overshirt_Olive_Back_optimized.jpg?v=1791927102"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/discharge-fatigue-overshirt-olive",
+      "name": "Brain Dead Fatigue Overshirt — Olive",
+      "price": 275
     },
     {
-      "id": "steamery-pilo-icon-fabric-shaver-charcoal",
-      "name": "Steamery Pilo Icon Fabric Shaver — Charcoal",
-      "price": 65,
       "category": "care",
-      "link": "https://steamery.us/products/pilo-icon-fabric-shaver-charcoal",
+      "id": "steamery-pilo-icon-fabric-shaver-charcoal",
       "images": [
         {
           "label": "front",
@@ -900,14 +897,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0726/8083/3199/files/steamery_pilo_icon_charcoal_product_packshot_website_4x6_02.png?v=1784630734"
         }
-      ]
+      ],
+      "link": "https://steamery.us/products/pilo-icon-fabric-shaver-charcoal",
+      "name": "Steamery Pilo Icon Fabric Shaver — Charcoal",
+      "price": 65
     },
     {
-      "id": "iloveugly-tobi-straight-denim-black",
-      "name": "I Love Ugly Tobi Straight Denim — Black",
-      "price": "$149",
       "category": "jeans",
-      "link": "https://www.iloveugly.com/products/tobi-straight-denim-black",
+      "id": "iloveugly-tobi-straight-denim-black",
       "images": [
         {
           "label": "front",
@@ -917,14 +914,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_ef5a20a8-9919-4860-a518-ec8b2a5d7ac1.jpg?v=1788304171"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/tobi-straight-denim-black",
+      "name": "I Love Ugly Tobi Straight Denim — Black",
+      "price": "$149"
     },
     {
-      "id": "iloveugly-arlo-ss-shirt-black-white-check",
-      "name": "I Love Ugly Arlo SS Shirt — Black/White Check",
-      "price": "$95",
       "category": "shirt",
-      "link": "https://www.iloveugly.com/products/arlo-ss-shirt-black-white-check",
+      "id": "iloveugly-arlo-ss-shirt-black-white-check",
       "images": [
         {
           "label": "front",
@@ -934,14 +931,14 @@
           "label": "on-body",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_d7e37b1b-1beb-4ecd-9c92-4f722f80b2b3.jpg?v=1789432114"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/arlo-ss-shirt-black-white-check",
+      "name": "I Love Ugly Arlo SS Shirt — Black/White Check",
+      "price": "$95"
     },
     {
-      "id": "iloveugly-winston-pant-mineral-green",
-      "name": "I Love Ugly Winston Pant — Mineral Green",
-      "price": "$145",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/winston-pant-mineral-green",
+      "id": "iloveugly-winston-pant-mineral-green",
       "images": [
         {
           "label": "front",
@@ -951,14 +948,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_866c1c55-c385-42a8-8313-b86695ebd9b1.jpg?v=1788743577"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/winston-pant-mineral-green",
+      "name": "I Love Ugly Winston Pant — Mineral Green",
+      "price": "$145"
     },
     {
-      "id": "henson-shave-system-aircraft-aluminum",
-      "name": "Henson Shaving Shave System — Aircraft Aluminum",
-      "price": "$105",
       "category": "grooming",
-      "link": "https://hensonshaving.com/products/henson-shave-system-in-aircraft-aluminum",
+      "id": "henson-shave-system-aircraft-aluminum",
       "images": [
         {
           "label": "front",
@@ -968,14 +965,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0269/8025/3776/files/Product_Feature_Images_2_30_Angle_v3_TINY.jpg?v=1771622103"
         }
-      ]
+      ],
+      "link": "https://hensonshaving.com/products/henson-shave-system-in-aircraft-aluminum",
+      "name": "Henson Shaving Shave System — Aircraft Aluminum",
+      "price": "$105"
     },
     {
-      "id": "iloveugly-winston-pant-grey-marle",
-      "name": "I Love Ugly Winston Pant — Grey Marle",
-      "price": "$145",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/winston-pant-grey-marle",
+      "id": "iloveugly-winston-pant-grey-marle",
       "images": [
         {
           "label": "front",
@@ -985,14 +982,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_ad7bbe0a-9463-41e8-bbcf-69729d0cf9e4.jpg?v=1789076755"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/winston-pant-grey-marle",
+      "name": "I Love Ugly Winston Pant — Grey Marle",
+      "price": "$145"
     },
     {
-      "id": "iloveugly-box-cuban-collar-shirt-blue-white-stripe",
-      "name": "I Love Ugly Box Cuban Collar Shirt — Blue/White Stripe",
-      "price": "$95",
       "category": "shirt",
-      "link": "https://www.iloveugly.com/products/box-cuban-collar-shirt-blue-white-stripe-1",
+      "id": "iloveugly-box-cuban-collar-shirt-blue-white-stripe",
       "images": [
         {
           "label": "front",
@@ -1002,14 +999,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_253e41ff-e77c-429b-959e-2eb97689557c.jpg?v=1789435643"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/box-cuban-collar-shirt-blue-white-stripe-1",
+      "name": "I Love Ugly Box Cuban Collar Shirt — Blue/White Stripe",
+      "price": "$95"
     },
     {
-      "id": "iloveugly-balloon-pleat-pant-charcoal-grey",
-      "name": "I Love Ugly Balloon Pleat Pant — Charcoal Grey",
-      "price": "$139",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/balloon-pleat-pant-charcoal-grey",
+      "id": "iloveugly-balloon-pleat-pant-charcoal-grey",
       "images": [
         {
           "label": "front",
@@ -1019,14 +1016,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_457c8ff0-3828-4aa8-9dc0-0ca1ea5697e6.jpg?v=1789436283"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/balloon-pleat-pant-charcoal-grey",
+      "name": "I Love Ugly Balloon Pleat Pant — Charcoal Grey",
+      "price": "$139"
     },
     {
-      "id": "ugmonk-analog-archive-black-aluminum",
-      "name": "Ugmonk Analog Archive — Black Aluminum",
-      "price": "$129",
       "category": "home",
-      "link": "https://ugmonk.com/products/analog-archive-black-aluminum",
+      "id": "ugmonk-analog-archive-black-aluminum",
       "images": [
         {
           "label": "front",
@@ -1036,14 +1033,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0167/4484/files/aluminum-archive-blk-6.jpg?v=1791305230"
         }
-      ]
+      ],
+      "link": "https://ugmonk.com/products/analog-archive-black-aluminum",
+      "name": "Ugmonk Analog Archive — Black Aluminum",
+      "price": "$129"
     },
     {
-      "id": "iloveugly-twin-pleat-pant-dune",
-      "name": "I Love Ugly Twin Pleat Pant — Dune",
-      "price": 145,
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/twin-pleat-pant-dune",
+      "id": "iloveugly-twin-pleat-pant-dune",
       "images": [
         {
           "label": "front",
@@ -1053,14 +1050,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_1601983b-92cd-421e-9515-a3e5982fe0f7.jpg?v=1790122322"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/twin-pleat-pant-dune",
+      "name": "I Love Ugly Twin Pleat Pant — Dune",
+      "price": 145
     },
     {
-      "id": "iloveugly-kobe-dress-pant-black",
-      "name": "I Love Ugly Kobe Dress Pant — Black",
-      "price": 129,
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/kobe-dress-pant-black",
+      "id": "iloveugly-kobe-dress-pant-black",
       "images": [
         {
           "label": "front",
@@ -1070,14 +1067,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_0dd5eeab-0265-4a75-b5f7-e6e0da3a69ee.jpg?v=1790131776"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/kobe-dress-pant-black",
+      "name": "I Love Ugly Kobe Dress Pant — Black",
+      "price": 129
     },
     {
-      "id": "iloveugly-winston-pant-sand-herringbone",
-      "name": "I Love Ugly Winston Pant — Sand Herringbone",
-      "price": 145,
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/winston-pant-sand-herringbone",
+      "id": "iloveugly-winston-pant-sand-herringbone",
       "images": [
         {
           "label": "front",
@@ -1087,14 +1084,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_df4bd47f-fd06-499c-b170-4527f8466e89.jpg?v=1790127745"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/winston-pant-sand-herringbone",
+      "name": "I Love Ugly Winston Pant — Sand Herringbone",
+      "price": 145
     },
     {
-      "id": "esr-omnilock-magnetic-car-mount-black",
-      "name": "ESR OmniLock Magnetic Car Mount (Suction Cup) — Black",
-      "price": 32.99,
       "category": "car",
-      "link": "https://www.esrgear.com/products/black-suction-cup-car-phone-holders-omnilock",
+      "id": "esr-omnilock-magnetic-car-mount-black",
       "images": [
         {
           "label": "front",
@@ -1104,14 +1101,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/OmniLock-Magnetic-Car-Mount-_Suction-Cup_-Black-ESR-237258975.jpg?v=1773717320"
         }
-      ]
+      ],
+      "link": "https://www.esrgear.com/products/black-suction-cup-car-phone-holders-omnilock",
+      "name": "ESR OmniLock Magnetic Car Mount (Suction Cup) — Black",
+      "price": 32.99
     },
     {
-      "id": "braindead-pique-thermal-polo-washed-black",
-      "name": "Brain Dead Pique Thermal Polo Shirt — Washed Black",
-      "price": 175,
       "category": "polo",
-      "link": "https://wearebraindead.com/products/pique-thermal-polo-shirt-washed-black",
+      "id": "braindead-pique-thermal-polo-washed-black",
       "images": [
         {
           "label": "front",
@@ -1121,14 +1118,14 @@
           "label": "back",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Pique_Thermal_Polo_Shirt_Washed_Black_Back_optimized.jpg?v=1791916386"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/pique-thermal-polo-shirt-washed-black",
+      "name": "Brain Dead Pique Thermal Polo Shirt — Washed Black",
+      "price": 175
     },
     {
-      "id": "iloveugly-devin-pant-charcoal",
-      "name": "I Love Ugly Devin Pant — Charcoal",
-      "price": 125,
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/devin-pant-charcoal-1",
+      "id": "iloveugly-devin-pant-charcoal",
       "images": [
         {
           "label": "front",
@@ -1138,14 +1135,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_437a38a1-d235-4a0d-ab4b-2f788a88cd3f.jpg?v=1790132784"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/devin-pant-charcoal-1",
+      "name": "I Love Ugly Devin Pant — Charcoal",
+      "price": 125
     },
     {
-      "id": "iloveugly-twin-pleat-pant-dark-grey-herringbone",
-      "name": "I Love Ugly Twin Pleat Pant — Dark Grey Herringbone",
-      "price": 145,
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/twin-pleat-pant-dark-grey-herringbone",
+      "id": "iloveugly-twin-pleat-pant-dark-grey-herringbone",
       "images": [
         {
           "label": "front",
@@ -1155,14 +1152,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_b5d8800e-7ff5-4d63-a9d6-df466f62d1d2.jpg?v=1790129813"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/twin-pleat-pant-dark-grey-herringbone",
+      "name": "I Love Ugly Twin Pleat Pant — Dark Grey Herringbone",
+      "price": 145
     },
     {
-      "id": "viski-glass-makoto-jigger",
-      "name": "Viski Glass Makoto Jigger",
-      "price": 19.99,
       "category": "bar",
-      "link": "https://viski.com/products/12604",
+      "id": "viski-glass-makoto-jigger",
       "images": [
         {
           "label": "front",
@@ -1172,14 +1169,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0453/3089/0913/files/qmalmjcj2bmbbhzvhayt.jpg?v=1787841710"
         }
-      ]
+      ],
+      "link": "https://viski.com/products/12604",
+      "name": "Viski Glass Makoto Jigger",
+      "price": 19.99
     },
     {
-      "id": "iloveugly-mercer-ls-flannel-shirt-offwhite-black-check",
-      "name": "I Love Ugly Mercer LS Flannel Shirt — Off White/Black Check",
-      "price": 99,
       "category": "shirt",
-      "link": "https://www.iloveugly.com/products/mercer-ls-flannel-shirt-off-white-black-check",
+      "id": "iloveugly-mercer-ls-flannel-shirt-offwhite-black-check",
       "images": [
         {
           "label": "front",
@@ -1189,14 +1186,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_04d6eb36-18a6-47d8-987d-7ca17becc7d2.jpg?v=1791943078"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/mercer-ls-flannel-shirt-off-white-black-check",
+      "name": "I Love Ugly Mercer LS Flannel Shirt — Off White/Black Check",
+      "price": 99
     },
     {
-      "id": "iloveugly-winston-pant-smokey-brown",
-      "name": "I Love Ugly Winston Pant — Smokey Brown",
-      "price": 145,
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/winston-pant-smokey-brown",
+      "id": "iloveugly-winston-pant-smokey-brown",
       "images": [
         {
           "label": "front",
@@ -1206,14 +1203,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_2cb7247f-f76a-45ed-afe8-b3161c65b495.jpg?v=1790817020"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/winston-pant-smokey-brown",
+      "name": "I Love Ugly Winston Pant — Smokey Brown",
+      "price": 145
     },
     {
-      "id": "braindead-paneled-pigment-football-shirt-navy",
-      "name": "Brain Dead Paneled Pigment Football Shirt — Navy",
-      "price": 175,
       "category": "shirt",
-      "link": "https://wearebraindead.com/products/paneled-pigment-football-shirt-navy",
+      "id": "braindead-paneled-pigment-football-shirt-navy",
       "images": [
         {
           "label": "front",
@@ -1223,14 +1220,14 @@
           "label": "back",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Paneled_Pigment_Football_Shirt_Navy_Back_optimized.jpg?v=1791927289"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/paneled-pigment-football-shirt-navy",
+      "name": "Brain Dead Paneled Pigment Football Shirt — Navy",
+      "price": 175
     },
     {
-      "id": "orbitkey-hanging-toiletry-pouch-black",
-      "name": "Orbitkey Hanging Toiletry Pouch — Black",
-      "price": 69,
       "category": "travel",
-      "link": "https://orbitkey.com/products/hanging-toiletry-pouch",
+      "id": "orbitkey-hanging-toiletry-pouch-black",
       "images": [
         {
           "label": "front",
@@ -1240,14 +1237,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0932/4482/files/HangingToiletryPouch-Black-2.jpg?v=1776234351"
         }
-      ]
+      ],
+      "link": "https://orbitkey.com/products/hanging-toiletry-pouch",
+      "name": "Orbitkey Hanging Toiletry Pouch — Black",
+      "price": 69
     },
     {
-      "id": "iloveugly-dawson-ss-shirt-white-black-stripe",
-      "name": "I Love Ugly Dawson SS Shirt — White/Black Stripe",
-      "price": "$99",
       "category": "shirt",
-      "link": "https://www.iloveugly.com/products/dawson-ss-shirt-white-black-stripe",
+      "id": "iloveugly-dawson-ss-shirt-white-black-stripe",
       "images": [
         {
           "label": "front",
@@ -1257,14 +1254,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_80a3e8bb-c297-463c-be1f-46ad6b0cdf98.jpg?v=1791943262"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/dawson-ss-shirt-white-black-stripe",
+      "name": "I Love Ugly Dawson SS Shirt — White/Black Stripe",
+      "price": "$99"
     },
     {
-      "id": "iloveugly-winston-pant-forest-green",
-      "name": "I Love Ugly Winston Pant — Forest Green",
-      "price": "$145",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/winston-pant-forest-green",
+      "id": "iloveugly-winston-pant-forest-green",
       "images": [
         {
           "label": "front",
@@ -1274,14 +1271,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_33c10bc5-cf47-4adf-995d-28d574dcb265.jpg?v=1786280643"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/winston-pant-forest-green",
+      "name": "I Love Ugly Winston Pant — Forest Green",
+      "price": "$145"
     },
     {
-      "id": "braindead-casey-stripe-ls-tee-brown",
-      "name": "Brain Dead Casey Stripe Long Sleeve T-shirt — Brown",
-      "price": "$135",
       "category": "tshirt",
-      "link": "https://wearebraindead.com/products/casey-stripe-long-sleeve-t-shirt-brown",
+      "id": "braindead-casey-stripe-ls-tee-brown",
       "images": [
         {
           "label": "front",
@@ -1291,14 +1288,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Casey_Stripe_Long_Sleeve_Tshirt_Brown_Detail_optimized.jpg?v=1791926598"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/casey-stripe-long-sleeve-t-shirt-brown",
+      "name": "Brain Dead Casey Stripe Long Sleeve T-shirt — Brown",
+      "price": "$135"
     },
     {
-      "id": "orbitkey-nest-v2-black",
-      "name": "Orbitkey Nest v2 — Black",
-      "price": "$124.90",
       "category": "electronics",
-      "link": "https://orbitkey.com/products/nest-v2",
+      "id": "orbitkey-nest-v2-black",
       "images": [
         {
           "label": "front",
@@ -1308,14 +1305,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0932/4482/files/Nestv2-Black-3.jpg?v=1751955232"
         }
-      ]
+      ],
+      "link": "https://orbitkey.com/products/nest-v2",
+      "name": "Orbitkey Nest v2 — Black",
+      "price": "$124.90"
     },
     {
-      "id": "brain-dead-type-02-washed-canvas-pant-natural",
-      "name": "Brain Dead Type 02 Washed Canvas Pant — Natural",
-      "price": 275,
       "category": "pants",
-      "link": "https://wearebraindead.com/products/type-02-washed-canvas-pant-natural",
+      "id": "brain-dead-type-02-washed-canvas-pant-natural",
       "images": [
         {
           "label": "front",
@@ -1325,14 +1322,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Type_02_Washed_Canvas_Pant_Natural_Detail_Pocket_optimized.jpg?v=1791924403"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/type-02-washed-canvas-pant-natural",
+      "name": "Brain Dead Type 02 Washed Canvas Pant — Natural",
+      "price": 275
     },
     {
-      "id": "brain-dead-collegiate-mercerized-track-pant-black",
-      "name": "Brain Dead Collegiate Mercerized Track Pant — Black",
-      "price": 245,
       "category": "pants",
-      "link": "https://wearebraindead.com/products/collegiate-mercerized-track-pant-black",
+      "id": "brain-dead-collegiate-mercerized-track-pant-black",
       "images": [
         {
           "label": "front",
@@ -1342,14 +1339,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/BDF26B00005300BK01_5.jpg?v=1790965187"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/collegiate-mercerized-track-pant-black",
+      "name": "Brain Dead Collegiate Mercerized Track Pant — Black",
+      "price": 245
     },
     {
-      "id": "i-love-ugly-kobe-pant-charcoal-houndstooth",
-      "name": "I Love Ugly Kobe Pant — Charcoal Houndstooth",
-      "price": 129,
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/kobe-pant-charcoal-houndstooth",
+      "id": "i-love-ugly-kobe-pant-charcoal-houndstooth",
       "images": [
         {
           "label": "front",
@@ -1359,14 +1356,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_d6c2c9b8-7f95-47a1-820f-9d9bc0064ed8.jpg?v=1790130432"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/kobe-pant-charcoal-houndstooth",
+      "name": "I Love Ugly Kobe Pant — Charcoal Houndstooth",
+      "price": 129
     },
     {
-      "id": "bala-wavy-roller-blush",
-      "name": "Bala The Wavy Roller — Blush",
-      "price": 39,
       "category": "fitness",
-      "link": "https://shopbala.com/products/the-wavy-roller",
+      "id": "bala-wavy-roller-blush",
       "images": [
         {
           "label": "front",
@@ -1376,14 +1373,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BLUSH_c12ef2b8-e0a6-4944-abe4-4e90fcb2b0ef.jpg?v=1786744621"
         }
-      ]
+      ],
+      "link": "https://shopbala.com/products/the-wavy-roller",
+      "name": "Bala The Wavy Roller — Blush",
+      "price": 39
     },
     {
-      "id": "brain-dead-paneled-pigment-football-shirt-black",
-      "name": "Brain Dead Paneled Pigment Football Shirt — Black",
-      "price": 175,
       "category": "shirt",
-      "link": "https://wearebraindead.com/products/paneled-pigment-football-shirt-black",
+      "id": "brain-dead-paneled-pigment-football-shirt-black",
       "images": [
         {
           "label": "front",
@@ -1393,14 +1390,14 @@
           "label": "back",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Paneled_Pigment_Football_Shirt_Black_Back_optimized.jpg?v=1791927279"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/paneled-pigment-football-shirt-black",
+      "name": "Brain Dead Paneled Pigment Football Shirt — Black",
+      "price": 175
     },
     {
-      "id": "brain-dead-andersson-bell-traingolo-vest-backpack-multi",
-      "name": "Brain Dead × Andersson Bell Traingolo Vest Backpack — Multi",
-      "price": 350,
       "category": "accessories",
-      "link": "https://wearebraindead.com/products/andersson-bell-x-brain-dead-denim-traingolo-vest-backpack-multi",
+      "id": "brain-dead-andersson-bell-traingolo-vest-backpack-multi",
       "images": [
         {
           "label": "front",
@@ -1410,14 +1407,14 @@
           "label": "back",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Andersson_Bell_x_Brain_Dead_Tie_Dyed_Vest_Brown_Back_optimized.jpg?v=1774285033"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/andersson-bell-x-brain-dead-denim-traingolo-vest-backpack-multi",
+      "name": "Brain Dead × Andersson Bell Traingolo Vest Backpack — Multi",
+      "price": 350
     },
     {
-      "id": "i-love-ugly-quincy-pleated-short-black",
-      "name": "I Love Ugly Quincy Pleated Short — Black",
-      "price": 95,
       "category": "shorts",
-      "link": "https://www.iloveugly.com/products/quincy-pleated-short-black",
+      "id": "i-love-ugly-quincy-pleated-short-black",
       "images": [
         {
           "label": "front",
@@ -1427,14 +1424,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/2_27702c5c-67d4-4477-a387-d1b80bea1700.jpg?v=1791174578"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/quincy-pleated-short-black",
+      "name": "I Love Ugly Quincy Pleated Short — Black",
+      "price": 95
     },
     {
-      "id": "nori-press-steam-iron-white",
-      "name": "Nori The Nori Press Steam Iron — White",
-      "price": 119.99,
       "category": "care",
-      "link": "https://nori.co/products/the-nori-press",
+      "id": "nori-press-steam-iron-white",
       "images": [
         {
           "label": "front",
@@ -1444,14 +1441,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0528/1025/2487/files/7_ba659d28-e4b8-4b57-a0bb-70b2deb2cdfe.png?v=1771009205"
         }
-      ]
+      ],
+      "link": "https://nori.co/products/the-nori-press",
+      "name": "Nori The Nori Press Steam Iron — White",
+      "price": 119.99
     },
     {
-      "id": "brain-dead-pigment-dyed-french-terry-cardigan-washed-black",
-      "name": "Brain Dead Pigment Dyed French Terry Cardigan — Washed Black",
-      "price": 265,
       "category": "sweatshirt",
-      "link": "https://wearebraindead.com/products/pigment-dyed-french-terry-cardigan-washed-black",
+      "id": "brain-dead-pigment-dyed-french-terry-cardigan-washed-black",
       "images": [
         {
           "label": "front",
@@ -1461,14 +1458,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Pigment_Dyed_French_Terry_Cardigan_Washed_Black_Detail_optimized.jpg?v=1791926999"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/pigment-dyed-french-terry-cardigan-washed-black",
+      "name": "Brain Dead Pigment Dyed French Terry Cardigan — Washed Black",
+      "price": 265
     },
     {
-      "id": "i-love-ugly-kingston-oversized-shirt-white-black-beige-stripe",
-      "name": "I Love Ugly Kingston Oversized Shirt — White/Black/Beige Stripe",
-      "price": 95,
       "category": "shirt",
-      "link": "https://www.iloveugly.com/products/kingston-oversized-shirt-white-black-beige-stripe",
+      "id": "i-love-ugly-kingston-oversized-shirt-white-black-beige-stripe",
       "images": [
         {
           "label": "front",
@@ -1478,14 +1475,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_9dc1f1af-1c57-4cf6-8b3c-24b3263b336a.jpg?v=1792529541"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/kingston-oversized-shirt-white-black-beige-stripe",
+      "name": "I Love Ugly Kingston Oversized Shirt — White/Black/Beige Stripe",
+      "price": 95
     },
     {
-      "id": "i-love-ugly-barrel-leg-crop-pant-indigo",
-      "name": "I Love Ugly Barrel Leg Crop Pant — Indigo",
-      "price": 139,
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/barrel-leg-crop-pant-indigo",
+      "id": "i-love-ugly-barrel-leg-crop-pant-indigo",
       "images": [
         {
           "label": "front",
@@ -1495,14 +1492,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_1e1d666f-5e24-41c2-aaee-d546af4a3532.jpg?v=1790119644"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/barrel-leg-crop-pant-indigo",
+      "name": "I Love Ugly Barrel Leg Crop Pant — Indigo",
+      "price": 139
     },
     {
-      "id": "leaf-two-razor-black",
-      "name": "Leaf Shave Leaf Two Razor (Version 2.1) — Black",
-      "price": 109,
       "category": "grooming",
-      "link": "https://leafshave.com/products/leaf-two-razor-2-1",
+      "id": "leaf-two-razor-black",
       "images": [
         {
           "label": "front",
@@ -1512,14 +1509,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0435/8324/2406/files/PDP-Leaf-2.1-Black-Carousel-Head_Shave-Web.jpg?v=1791989104"
         }
-      ]
+      ],
+      "link": "https://leafshave.com/products/leaf-two-razor-2-1",
+      "name": "Leaf Shave Leaf Two Razor (Version 2.1) — Black",
+      "price": 109
     },
     {
-      "id": "brain-dead-type-00-selvedge-denim-stonewash-indigo",
-      "name": "Brain Dead Type 00 15oz Selvedge Denim Pant — Stonewash Indigo",
-      "price": 325,
       "category": "jeans",
-      "link": "https://wearebraindead.com/products/type-00-15oz-selvedge-denim-pant-stonewash-indigo",
+      "id": "brain-dead-type-00-selvedge-denim-stonewash-indigo",
       "images": [
         {
           "label": "front",
@@ -1529,14 +1526,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Type_00_15oz_Selvedge_Denim_Pant_-_Stonewash_Indigo_02-optimized.jpg?v=1760483541"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/type-00-15oz-selvedge-denim-pant-stonewash-indigo",
+      "name": "Brain Dead Type 00 15oz Selvedge Denim Pant — Stonewash Indigo",
+      "price": 325
     },
     {
-      "id": "i-love-ugly-mercer-ls-flannel-shirt-mustard-check",
-      "name": "I Love Ugly Mercer LS Flannel Shirt — Mustard Check",
-      "price": 99,
       "category": "shirt",
-      "link": "https://www.iloveugly.com/products/mercer-ls-flannel-shirt-mustard-check",
+      "id": "i-love-ugly-mercer-ls-flannel-shirt-mustard-check",
       "images": [
         {
           "label": "front",
@@ -1546,14 +1543,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_bc921644-46ff-42c4-a78c-28da4b4956db.jpg?v=1791943109"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/mercer-ls-flannel-shirt-mustard-check",
+      "name": "I Love Ugly Mercer LS Flannel Shirt — Mustard Check",
+      "price": 99
     },
     {
-      "id": "i-love-ugly-quincy-pleated-short-espresso",
-      "name": "I Love Ugly Quincy Pleated Short — Espresso",
-      "price": 95,
       "category": "shorts",
-      "link": "https://www.iloveugly.com/products/quincy-pleated-short-espresso",
+      "id": "i-love-ugly-quincy-pleated-short-espresso",
       "images": [
         {
           "label": "front",
@@ -1563,14 +1560,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/9_93dcf443-ef86-46d5-9813-15f8fda35468.jpg?v=1791170105"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/quincy-pleated-short-espresso",
+      "name": "I Love Ugly Quincy Pleated Short — Espresso",
+      "price": 95
     },
     {
-      "id": "areaware-everybody-night-light-green",
-      "name": "Areaware Everybody Night Light — Green",
-      "price": 35,
       "category": "home",
-      "link": "https://areaware.com/products/everybody-night-light-in-green",
+      "id": "areaware-everybody-night-light-green",
       "images": [
         {
           "label": "front",
@@ -1580,14 +1577,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0168/6168/files/EverybodyNightLight-Group-Silo-01-DDHENL.jpg?v=1738809970"
         }
-      ]
+      ],
+      "link": "https://areaware.com/products/everybody-night-light-in-green",
+      "name": "Areaware Everybody Night Light — Green",
+      "price": 35
     },
     {
-      "id": "iloveugly-barrel-leg-crop-pant-black",
-      "name": "I Love Ugly Barrel Leg Crop Pant — Black",
-      "price": 139,
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/barrel-leg-crop-pant-black",
+      "id": "iloveugly-barrel-leg-crop-pant-black",
       "images": [
         {
           "label": "front",
@@ -1597,14 +1594,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_4dd8ffcc-7e9a-4b5a-9fd3-c0c86f384713.jpg?v=1790118895"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/barrel-leg-crop-pant-black",
+      "name": "I Love Ugly Barrel Leg Crop Pant — Black",
+      "price": 139
     },
     {
-      "id": "iloveugly-dawson-ss-shirt-navy-black-check",
-      "name": "I Love Ugly Dawson SS Shirt — Navy/Black Check",
-      "price": 99,
       "category": "shirt",
-      "link": "https://www.iloveugly.com/products/dawson-ss-shirt-navy-black-check",
+      "id": "iloveugly-dawson-ss-shirt-navy-black-check",
       "images": [
         {
           "label": "front",
@@ -1614,14 +1611,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/8_d17ecc3f-bc0f-4eb6-bbc2-9007ab084dd0.jpg?v=1791943322"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/dawson-ss-shirt-navy-black-check",
+      "name": "I Love Ugly Dawson SS Shirt — Navy/Black Check",
+      "price": 99
     },
     {
-      "id": "braindead-type02-washed-canvas-pant-black",
-      "name": "Brain Dead Type 02 Washed Canvas Pant — Black",
-      "price": 275,
       "category": "pants",
-      "link": "https://wearebraindead.com/products/type-02-washed-canvas-pant-black",
+      "id": "braindead-type02-washed-canvas-pant-black",
       "images": [
         {
           "label": "front",
@@ -1631,14 +1628,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Type_02_Washed_Canvas_Pant_Black_Pocket_optimized.jpg?v=1791924384"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/type-02-washed-canvas-pant-black",
+      "name": "Brain Dead Type 02 Washed Canvas Pant — Black",
+      "price": 275
     },
     {
-      "id": "esr-dashboard-car-phone-mount-halolock-black",
-      "name": "ESR Dashboard Car Phone Mount (HaloLock) — Black",
-      "price": 24.99,
       "category": "car",
-      "link": "https://www.esrgear.com/products/halolock-dashboard-car-phone-mount",
+      "id": "esr-dashboard-car-phone-mount-halolock-black",
       "images": [
         {
           "label": "front",
@@ -1648,14 +1645,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Dashboard-Car-Phone-Mount-HaloLock-zt02.jpg?v=1742206032"
         }
-      ]
+      ],
+      "link": "https://www.esrgear.com/products/halolock-dashboard-car-phone-mount",
+      "name": "ESR Dashboard Car Phone Mount (HaloLock) — Black",
+      "price": 24.99
     },
     {
-      "id": "todd-snyder-new-balance-t500-milk",
-      "name": "Todd Snyder × New Balance T500 Sneaker — Milk",
-      "price": "$130",
       "category": "shoes",
-      "link": "https://www.toddsnyder.com/collections/new-balance/products/ts-x-nb-t500desert-beige",
+      "id": "todd-snyder-new-balance-t500-milk",
       "images": [
         {
           "label": "front",
@@ -1665,14 +1662,14 @@
           "label": "side",
           "url": "https://cdn.shopify.com/s/files/1/0186/1574/files/U50016C_DESERTBEIGE_2_R_2fcdc629-f3be-4282-95f1-259eab9ba8aa.jpg?v=1792515965"
         }
-      ]
+      ],
+      "link": "https://www.toddsnyder.com/collections/new-balance/products/ts-x-nb-t500desert-beige",
+      "name": "Todd Snyder × New Balance T500 Sneaker — Milk",
+      "price": "$130"
     },
     {
-      "id": "iloveugly-dallas-loose-denim-washed-vintage-blue",
-      "name": "I Love Ugly Dallas Loose Denim — Washed Vintage Blue",
-      "price": "$149",
       "category": "jeans",
-      "link": "https://www.iloveugly.com/products/dallas-loose-denim-washed-vintage-blue",
+      "id": "iloveugly-dallas-loose-denim-washed-vintage-blue",
       "images": [
         {
           "label": "front",
@@ -1682,14 +1679,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO1_897be4e1-ddad-4fc2-b86f-b55dd4025891.jpg?v=1789436887"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/dallas-loose-denim-washed-vintage-blue",
+      "name": "I Love Ugly Dallas Loose Denim — Washed Vintage Blue",
+      "price": "$149"
     },
     {
-      "id": "iloveugly-vermont-pleat-pant-black",
-      "name": "I Love Ugly Vermont Pleat Pant — Black",
-      "price": "$145",
       "category": "pants",
-      "link": "https://www.iloveugly.com/products/vermont-pleat-pant-black",
+      "id": "iloveugly-vermont-pleat-pant-black",
       "images": [
         {
           "label": "front",
@@ -1699,14 +1696,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0074/1094/2067/files/1RO11.jpg?v=1787233739"
         }
-      ]
+      ],
+      "link": "https://www.iloveugly.com/products/vermont-pleat-pant-black",
+      "name": "I Love Ugly Vermont Pleat Pant — Black",
+      "price": "$145"
     },
     {
-      "id": "a-bar-above-standard-bar-spoons",
-      "name": "A Bar Above Standard Bar Spoons (Set of 2)",
-      "price": "$18",
       "category": "bar",
-      "link": "https://shop.abarabove.com/products/standard-bar-spoons",
+      "id": "a-bar-above-standard-bar-spoons",
       "images": [
         {
           "label": "front",
@@ -1716,14 +1713,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0562/0950/6394/products/BeginnertoPro.jpg?v=1741636060"
         }
-      ]
+      ],
+      "link": "https://shop.abarabove.com/products/standard-bar-spoons",
+      "name": "A Bar Above Standard Bar Spoons (Set of 2)",
+      "price": "$18"
     },
     {
-      "id": "uniqlo-jw-anderson-short-blouson-navy",
-      "name": "UNIQLO × JW ANDERSON Short Blouson — Navy",
-      "price": "$89.90",
       "category": "jacket",
-      "link": "https://www.uniqlo.com/us/en/products/E486821-000/00",
+      "id": "uniqlo-jw-anderson-short-blouson-navy",
       "images": [
         {
           "label": "front",
@@ -1733,14 +1730,14 @@
           "label": "detail",
           "url": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/486821/sub/usgoods_486821_sub3_3x4.jpg"
         }
-      ]
+      ],
+      "link": "https://www.uniqlo.com/us/en/products/E486821-000/00",
+      "name": "UNIQLO × JW ANDERSON Short Blouson — Navy",
+      "price": "$89.90"
     },
     {
-      "id": "uniqlo-jw-anderson-fair-isle-sweater-beige",
-      "name": "UNIQLO × JW ANDERSON Lambswool Fair Isle Crew Neck Sweater — Beige",
-      "price": "$49.90",
       "category": "sweater",
-      "link": "https://www.uniqlo.com/us/en/products/E486087-000/00",
+      "id": "uniqlo-jw-anderson-fair-isle-sweater-beige",
       "images": [
         {
           "label": "front",
@@ -1750,14 +1747,14 @@
           "label": "detail",
           "url": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/486087/sub/usgoods_486087_sub3_3x4.jpg"
         }
-      ]
+      ],
+      "link": "https://www.uniqlo.com/us/en/products/E486087-000/00",
+      "name": "UNIQLO × JW ANDERSON Lambswool Fair Isle Crew Neck Sweater — Beige",
+      "price": "$49.90"
     },
     {
-      "id": "peak-design-tech-pouch-charcoal",
-      "name": "Peak Design Tech Pouch — Charcoal Gray",
-      "price": "$59.95",
       "category": "travel",
-      "link": "https://www.uniquephoto.com/product/peakdesigntechpouchcharcoalgray",
+      "id": "peak-design-tech-pouch-charcoal",
       "images": [
         {
           "label": "front",
@@ -1767,14 +1764,14 @@
           "label": "detail",
           "url": "https://www.uniquephoto.com/resources/uniquephoto/images/products/processed/PEABTPGY.detail.b.png"
         }
-      ]
+      ],
+      "link": "https://www.uniquephoto.com/product/peakdesigntechpouchcharcoalgray",
+      "name": "Peak Design Tech Pouch — Charcoal Gray",
+      "price": "$59.95"
     },
     {
-      "id": "alpha-andersson-bell-flight-vest-black",
-      "name": "Alpha Industries × Andersson Bell Flight Vest — Black",
-      "price": "$190",
       "category": "jacket",
-      "link": "https://www.alphaindustries.com/products/cja56501c1-andersson-bell-x-alpha-industries-flight-vest",
+      "id": "alpha-andersson-bell-flight-vest-black",
       "images": [
         {
           "label": "front",
@@ -1784,14 +1781,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/2513/7040/files/andersson-bell-x-alpha-vest-outerwear-313446.jpg?v=1791309487"
         }
-      ]
+      ],
+      "link": "https://www.alphaindustries.com/products/cja56501c1-andersson-bell-x-alpha-industries-flight-vest",
+      "name": "Alpha Industries × Andersson Bell Flight Vest — Black",
+      "price": "$190"
     },
     {
-      "id": "alpha-andersson-bell-cwu-45p-black",
-      "name": "Alpha Industries × Andersson Bell CWU 45/P Flight Jacket — Black",
-      "price": "$290",
       "category": "jacket",
-      "link": "https://www.alphaindustries.com/products/cja56500c1-andersson-bell-x-alpha-industries-cwu-45-p-flight-jacket",
+      "id": "alpha-andersson-bell-cwu-45p-black",
       "images": [
         {
           "label": "front",
@@ -1801,14 +1798,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/2513/7040/files/andersson-bell-x-alpha-cwu-45p-bomber-jacket-outerwear-171018.jpg?v=1791309493"
         }
-      ]
+      ],
+      "link": "https://www.alphaindustries.com/products/cja56500c1-andersson-bell-x-alpha-industries-cwu-45-p-flight-jacket",
+      "name": "Alpha Industries × Andersson Bell CWU 45/P Flight Jacket — Black",
+      "price": "$290"
     },
     {
-      "id": "anker-prime-100w-gan-charger",
-      "name": "Anker Prime Charger (100W, 3 Ports, GaN)",
-      "price": "$69.99",
       "category": "electronics",
-      "link": "https://www.anker.com/products/a2688-anker-prime-charger-100w-3-ports-gan",
+      "id": "anker-prime-100w-gan-charger",
       "images": [
         {
           "label": "front",
@@ -1818,14 +1815,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/613v3Ay0DOL.jpg?v=1764751314"
         }
-      ]
+      ],
+      "link": "https://www.anker.com/products/a2688-anker-prime-charger-100w-3-ports-gan",
+      "name": "Anker Prime Charger (100W, 3 Ports, GaN)",
+      "price": "$69.99"
     },
     {
-      "id": "brain-dead-broken-stripe-rugby-natural",
-      "name": "Brain Dead Broken Stripe Rugby Shirt — Natural",
-      "price": "$225",
       "category": "shirt",
-      "link": "https://wearebraindead.com/products/broken-stripe-rugby-shirt-natural",
+      "id": "brain-dead-broken-stripe-rugby-natural",
       "images": [
         {
           "label": "front",
@@ -1835,14 +1832,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Broken_Stripe_Rugby_Shirt_Natural_Detail_optimized_1a199f70-1dac-4a20-be0d-cb925910be8a.jpg?v=1793304692"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/broken-stripe-rugby-shirt-natural",
+      "name": "Brain Dead Broken Stripe Rugby Shirt — Natural",
+      "price": "$225"
     },
     {
-      "id": "brain-dead-stripe-dye-pique-brown",
-      "name": "Brain Dead Stripe Dye Pique T-shirt — Brown",
-      "price": "$115",
       "category": "tshirt",
-      "link": "https://wearebraindead.com/products/stripe-dye-pique-t-shirt-brown",
+      "id": "brain-dead-stripe-dye-pique-brown",
       "images": [
         {
           "label": "front",
@@ -1852,14 +1849,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Stripe_Dye_Pique_Tshirt_Brown_Detail_optimized_411aeaaa-6701-476d-8e59-1c41b57460f0.jpg?v=1793304142"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/stripe-dye-pique-t-shirt-brown",
+      "name": "Brain Dead Stripe Dye Pique T-shirt — Brown",
+      "price": "$115"
     },
     {
-      "id": "bala-bangles-charcoal-1lb",
-      "name": "Bala Bangles — Charcoal, 1 LB",
-      "price": "$55",
       "category": "fitness",
-      "link": "https://shopbala.com/products/bala-bangles",
+      "id": "bala-bangles-charcoal-1lb",
       "images": [
         {
           "label": "front",
@@ -1869,14 +1866,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Bangles_1lb_Charcoal_Render_Closeup_DTC_2400x3000_1a835a92-c7e9-475b-824f-6d971f1dd88f.jpg?v=1759407607"
         }
-      ]
+      ],
+      "link": "https://shopbala.com/products/bala-bangles",
+      "name": "Bala Bangles — Charcoal, 1 LB",
+      "price": "$55"
     },
     {
-      "id": "brain-dead-organic-waffle-knit-mixed-greys",
-      "name": "Brain Dead Organic Waffle Knit Top — Mixed Greys",
-      "price": "$140",
       "category": "sweatshirt",
-      "link": "https://wearebraindead.com/products/organic-waffle-knit-top-mixed-greys",
+      "id": "brain-dead-organic-waffle-knit-mixed-greys",
       "images": [
         {
           "label": "front",
@@ -1886,14 +1883,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Organic_Waffle_Knit_Top_Mixed_Greys_Detail_optimized.jpg?v=1792524439"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/organic-waffle-knit-top-mixed-greys",
+      "name": "Brain Dead Organic Waffle Knit Top — Mixed Greys",
+      "price": "$140"
     },
     {
-      "id": "brain-dead-long-sleeve-hitting-shirt-dusk-green",
-      "name": "Brain Dead Long Sleeve Hitting Shirt — Dusk Green",
-      "price": "$185",
       "category": "shirt",
-      "link": "https://wearebraindead.com/products/long-sleeve-hitting-shirt-dusk-green",
+      "id": "brain-dead-long-sleeve-hitting-shirt-dusk-green",
       "images": [
         {
           "label": "front",
@@ -1903,14 +1900,14 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0642/8893/files/Long_Sleeve_Hitting_Shirt_Dusk_Green_Detail_optimized.jpg?v=1792524751"
         }
-      ]
+      ],
+      "link": "https://wearebraindead.com/products/long-sleeve-hitting-shirt-dusk-green",
+      "name": "Brain Dead Long Sleeve Hitting Shirt — Dusk Green",
+      "price": "$185"
     },
     {
-      "id": "steamery-cirrus-lite-travel-steamer-charcoal",
-      "name": "Steamery Cirrus Lite Travel Steamer — Charcoal",
-      "price": "$140",
       "category": "care",
-      "link": "https://steamery.us/products/cirrus-lite-travel-steamer-charcoal",
+      "id": "steamery-cirrus-lite-travel-steamer-charcoal",
       "images": [
         {
           "label": "front",
@@ -1920,7 +1917,44 @@
           "label": "detail",
           "url": "https://cdn.shopify.com/s/files/1/0726/8083/3199/files/steamery_cirrus_lite_charcoal_product_packshot_website_4x6_03.png?v=1776843611"
         }
-      ]
+      ],
+      "link": "https://steamery.us/products/cirrus-lite-travel-steamer-charcoal",
+      "name": "Steamery Cirrus Lite Travel Steamer — Charcoal",
+      "price": "$140"
+    },
+    {
+      "category": "polo",
+      "id": "todd-snyder-argyle-sweater-polo-olive",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://www.toddsnyder.com/cdn/shop/files/NOV26_SW4918077_OLIVE_F1_R_1.jpg?v=1792437086"
+        },
+        {
+          "label": "model",
+          "url": "https://www.toddsnyder.com/cdn/shop/files/NOV26_SW4918077_OLIVE_011_M1_R.jpg?v=1792437132"
+        }
+      ],
+      "link": "https://www.toddsnyder.com/products/argyle-poloolive?variant=43003495546951",
+      "name": "Todd Snyder Argyle Sweater Polo — Olive Pattern",
+      "price": "$298"
+    },
+    {
+      "category": "grooming",
+      "id": "manscaped-beard-hedger",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://assets.manscaped.com/image/upload/f_auto,q_auto/v1723240423/product-assets/store/product-thumbnails/the-beard-hedger.png"
+        },
+        {
+          "label": "detail",
+          "url": "https://m.media-amazon.com/images/I/71Sp4oOlRvL.jpg"
+        }
+      ],
+      "link": "https://www.manscaped.com/products/the-beard-hedger",
+      "name": "MANSCAPED The Beard Hedger Electric Beard Trimmer",
+      "price": "$99.99"
     }
   ]
 }
