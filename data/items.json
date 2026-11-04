@@ -1989,6 +1989,40 @@
           "url": "https://res.cloudinary.com/gantri/image/upload/ar_636:477,c_lfill,w_640/q_auto/dpr_auto/f_auto/v1/dynamic-assets/gantri/products/10047/10047-sm-sand/scale-photo/10047-sm-sand--scale-photo-ce48b959-3871-451b-a66a-3b29f69a9829_1730387773851"
         }
       ]
+    },
+    {
+      "id": "todd-snyder-merino-sweater-polo-olive",
+      "name": "Todd Snyder Merino Sweater Polo — Olive",
+      "price": "$248",
+      "category": "polo",
+      "link": "https://www.toddsnyder.com/products/tipped-merino-poloolive?variant=42998286483527",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0186/1574/files/NOV26_SW4620154_OLIVE_FL1_R.jpg?v=1793134817"
+        },
+        {
+          "label": "on-body",
+          "url": "https://cdn.shopify.com/s/files/1/0186/1574/files/NOV26_SW4620154_OLIVE_004_M1_R.jpg?v=1793134819"
+        }
+      ]
+    },
+    {
+      "id": "byredo-gypsy-water-100ml",
+      "name": "Byredo Gypsy Water Eau de Parfum — 100ml",
+      "price": "$260",
+      "category": "fragrance",
+      "link": "https://www.scentsangel.com/products/byredo-gypsy-water-eau-de-parfum",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0455/0914/8823/files/Untitleddesign_8_8d4ae867-0f9b-47d9-b0a9-83dcdf64318d.jpg?v=1748434440"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0455/0914/8823/files/Untitleddesign_6_2a999759-4004-4f9f-82d8-cc67bb931cd8.jpg?v=1748434470"
+        }
+      ]
     }
   ]
 }
