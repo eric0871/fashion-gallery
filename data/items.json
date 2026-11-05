@@ -2023,6 +2023,40 @@
           "url": "https://cdn.shopify.com/s/files/1/0455/0914/8823/files/Untitleddesign_6_2a999759-4004-4f9f-82d8-cc67bb931cd8.jpg?v=1748434470"
         }
       ]
+    },
+    {
+      "id": "toddsnyder-corduroy-sport-shirt-blue",
+      "name": "Todd Snyder Corduroy Sport Shirt — Blue",
+      "price": "$178",
+      "category": "shirt",
+      "link": "https://www.toddsnyder.com/products/corduroy-sport-shirtblue",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://www.toddsnyder.com/cdn/shop/files/NOV26_SH22811183_BLUE_F1_R.jpg?v=1793134744&width=1200"
+        },
+        {
+          "label": "model",
+          "url": "https://www.toddsnyder.com/cdn/shop/files/NOV26_SH22811183_BLUE_007_M1_R.jpg?v=1793134745&width=1200"
+        }
+      ]
+    },
+    {
+      "id": "anker-nano-car-charger-167-5w",
+      "name": "Anker Nano Car Charger (167.5W, 3 Ports)",
+      "price": "$53.99",
+      "category": "car",
+      "link": "https://www.anker.com/products/a2737?ref=search_result_car+charger&variant=44052473315478",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/B27370A1_29c0ef29-c680-457e-b009-50e4e1d53a03.png?v=1728527108"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/3fe3542e-26df-4faf-a228-97dca50e0fdb.__CR0_0_1200_900_PT0_SX600_V1.jpg?v=1725326158&width=1534"
+        }
+      ]
     }
   ]
 }
