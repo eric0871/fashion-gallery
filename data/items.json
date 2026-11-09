@@ -2278,6 +2278,40 @@
           "url": "https://cdn.shopify.com/s/files/1/0671/4097/6867/files/Wave_Roller-5.png?v=1742006281"
         }
       ]
+    },
+    {
+      "id": "todd-snyder-fair-isle-vest-green-fern",
+      "name": "Todd Snyder Fair Isle Sweater Vest — Green Fern",
+      "price": "$228",
+      "category": "sweater",
+      "link": "https://www.toddsnyder.com/products/rustic-fairisle-vestgreen-fern",
+      "images": [
+        {
+          "label": "flat",
+          "url": "https://cdn.shopify.com/s/files/1/0186/1574/files/OCT26_SW4588077_GREEN_F1_R.jpg?v=1790348928"
+        },
+        {
+          "label": "model",
+          "url": "https://cdn.shopify.com/s/files/1/0186/1574/files/OCT26_SW4588077_GREEN_008_M2_R.jpg?v=1790348928"
+        }
+      ]
+    },
+    {
+      "id": "jason-markk-essential-kit",
+      "name": "Jason Markk Essential Kit",
+      "price": "$18",
+      "category": "care",
+      "link": "https://jasonmarkk.com/products/essential-kit",
+      "images": [
+        {
+          "label": "front",
+          "url": "https://cdn.shopify.com/s/files/1/0070/3633/8260/files/300110-EssentialKit_GrayBackground_2000x2000_09.26_01.jpg?v=1790046026"
+        },
+        {
+          "label": "detail",
+          "url": "https://cdn.shopify.com/s/files/1/0070/3633/8260/files/300110-EssentialKit_GrayBackground_2000x2000_09.26_02.jpg?v=1790046044"
+        }
+      ]
     }
   ]
 }
